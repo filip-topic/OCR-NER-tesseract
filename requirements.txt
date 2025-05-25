@@ -1,0 +1,8 @@
+ultralytics==8.0.171
+torch==2.5.1
+opencv-python 
+pillow
+
+pytesseract
+jiwer
+scikit-image
