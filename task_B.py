@@ -104,7 +104,7 @@ def process_image(image_path, gt_path, results_dict, identifier, otsu_dir, sauvo
             results_dict[identifier][key] = {"text": text, **metrics}
 
 
-def main():
+def main_B():
     results = defaultdict(dict)
 
     # Snippet predictions
@@ -142,4 +142,4 @@ def main():
     print(f"Done: results in {OUTPUT_FILE}")
 
 if __name__ == "__main__":
-    main()
+    main_B()
