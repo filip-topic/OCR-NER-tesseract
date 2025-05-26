@@ -1,3 +1,5 @@
+The experiment is ran using the ./main.py script.
+
 Tasks A, B, and C are implemented in the ./scr folder in corresponding python script
 
 Object detection results from task A are saved in the ./predictions/ folder.
