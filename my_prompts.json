@@ -1,0 +1,10 @@
+[
+  {
+    "id": "strict_json",
+    "template": "Extract Location, Description, Date, Photographer, Film from the text between <card>...</card>. Return ONLY a JSON object. <card>\n{sample}\n</card>"
+  },
+  {
+    "id": "bullet_then_json",
+    "template": "First think step-by-step in bullets (not returned), then output a JSON with keys Location, Description, Date, Photographer, Film. Text: {sample}"
+  }
+]

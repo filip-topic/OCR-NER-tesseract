@@ -7,6 +7,7 @@ import cv2
 
 def main_A():
     # Whitelist YOLO model and any PyTorch classes used in the checkpoint
+    # had issues with the model so needed this to make it work
     torch.serialization.add_safe_globals([
         DetectionModel,
         Sequential,
@@ -48,4 +49,4 @@ def main_A():
                         crop_filename = f"{os.path.splitext(filename)[0]}_crop{j}.png"
                         cv2.imwrite(os.path.join(OUTPUT_DIR, crop_filename), crop)
 
-    print(f"✅ Printed text crops saved to: {OUTPUT_DIR}")
+    print(f"Printed text crops saved to: {OUTPUT_DIR}")

@@ -2,12 +2,13 @@ ultralytics==8.0.171
 torch==2.5.1
 opencv-python 
 pillow
-
 pytesseract
 jiwer
 scikit-image
 opencv-python-headless
-
 uuid
-
 re
+spacy
+sklearn
+openai
+torchvision==0.20.1

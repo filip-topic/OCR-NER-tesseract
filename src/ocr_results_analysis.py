@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import json
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -44,29 +43,10 @@ def summarize(df):
     print("=== Mean CER/WER by Image Type (snippet vs whole) ===")
     print(df.groupby("type")[["CER","WER"]].mean(), "\n")
 
-def plot_metrics(df):
-    for metric in ["CER","WER"]:
-        plt.figure()
-        for method in df["method"].unique():
-            subset = df[df["method"] == method]
-            means = subset.groupby("psm")[metric].mean().sort_index()
-            plt.plot(means.index, means.values, marker="o", label=method)
-        plt.xlabel("PSM")
-        plt.ylabel(metric)
-        plt.title(f"{metric} vs PSM by Binarization Method")
-        plt.legend()
-        plt.grid(True)
-        plt.tight_layout()
-        plt.savefig(f"{metric.lower()}_vs_psm.png")
-        print(f"Saved plot: {metric.lower()}_vs_psm.png")
-        plt.close()
-
 def main():
     df = load_results(RESULTS_FILE)
     print(f"Loaded {len(df)} OCR runs from {RESULTS_FILE}")
     summarize(df)
-    # Uncomment the next line if you want PNG plots for CER/WER vs PSM
-    # plot_metrics(df)
 
 if __name__ == "__main__":
     main()
