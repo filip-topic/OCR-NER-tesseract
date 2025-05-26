@@ -1,10 +1,14 @@
 .venv
 /dataset/*
 /predictions/*
-/binarized_otsu/*
-/binarized_sauvola/*
+/binarized_otsu_snippet/*
+/binarized_sauvola_snippet/*
+/binarized_otsu_whole/*
+/binarized_sauvola_whole/*
 
 !/dataset/.gitkeep
 !/predictions/.gitkeep
-!/binarized_otsu/.gitkeep
-!/binarized_sauvola/.gitkeep
+!/binarized_otsu_snippet/.gitkeep
+!/binarized_sauvola_snippet/.gitkeep
+!/binarized_otsu_whole/.gitkeep
+!/binarized_sauvola_whole/.gitkeep
