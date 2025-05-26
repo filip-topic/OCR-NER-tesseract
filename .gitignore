@@ -1,3 +1,5 @@
 .venv
 dataset/
 predictions/
+binarized_otsu/
+binarized_sauvola/

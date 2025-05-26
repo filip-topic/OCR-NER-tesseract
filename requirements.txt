@@ -6,3 +6,6 @@ pillow
 pytesseract
 jiwer
 scikit-image
+opencv-python-headless
+
+uuid

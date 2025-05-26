@@ -1,0 +1,3057 @@
+{
+  "0001_ImageFile_{0A108ED7-FC32-45D2-B140-57964FE238DE}16_crop1.png": {
+    "color_psm3": {
+      "text": "Neunkirchner Allee\n\nAufn.Dr .Machura 1948\nFilm Nr.17,Neg.17 ,",
+      "CER": 0.1016949152542373,
+      "WER": 0.6666666666666666
+    },
+    "color_psm6": {
+      "text": "Neunkirchner Allee\nAufn.Dr.Machura 1948\nFilm Nr.17,Neg.17 ,.",
+      "CER": 0.0847457627118644,
+      "WER": 0.6666666666666666
+    },
+    "color_psm11": {
+      "text": "Neunkirchner Allee\n\nAufn.Dr Madhurn 1948\n\nFilm Nr.17,Neg.17 ,",
+      "CER": 0.13559322033898305,
+      "WER": 1.0
+    },
+    "otsu_psm3": {
+      "text": "_Neunkirchner Allee\n\nAufn.Dr.Machura 1948\nFilm Nr.17,Neg.17 ,",
+      "CER": 0.1016949152542373,
+      "WER": 0.8333333333333334
+    },
+    "otsu_psm6": {
+      "text": "Neunkirchner Allee\nAufn.Dr.Machura 1948\nFilm Nr.17,Neg.17 ,",
+      "CER": 0.06779661016949153,
+      "WER": 0.6666666666666666
+    },
+    "otsu_psm11": {
+      "text": "Neunkirchner Allee\n\nAufn.Dr.Machura 1948\n\nFilm Nr.17,Neg.17 ,",
+      "CER": 0.1016949152542373,
+      "WER": 0.8333333333333334
+    },
+    "sauvola_psm3": {
+      "text": "Neunkirchner Allee\n\nAufn.Dr.liachura 1948\nFilm Nr.17,Neg.17 ,",
+      "CER": 0.1016949152542373,
+      "WER": 0.6666666666666666
+    },
+    "sauvola_psm6": {
+      "text": "\"Neunkirchner Allee\nAufn.Dr.liachura 1948\nFilm Nr.17,Neg.17 ,",
+      "CER": 0.1016949152542373,
+      "WER": 0.8333333333333334
+    },
+    "sauvola_psm11": {
+      "text": "Neunkirchner Allee\n\nAufn.Dr.liachura 1948\n\nFilm Nr.17,Neg.17 ,",
+      "CER": 0.11864406779661017,
+      "WER": 0.8333333333333334
+    }
+  },
+  "0002_ImageFile_{0BCE22E5-A353-4208-AEC3-3C5295A55EA2}10_crop1.png": {
+    "color_psm3": {
+      "text": "Klamm bei Schottwien\n\nAufn.Dr.Machura\nFilm 9x12,Nr.2548",
+      "CER": 0.08620689655172414,
+      "WER": 0.75
+    },
+    "color_psm6": {
+      "text": "Klamm bei Schottwien\nAufn.Dr.Macura\nFilm 9x12,Nr.2548",
+      "CER": 0.08620689655172414,
+      "WER": 0.75
+    },
+    "color_psm11": {
+      "text": "Klamm bei Schottwien\n\nAufn.Dr.Nachura\n\nFilm 9x12,Nr.2548",
+      "CER": 0.1206896551724138,
+      "WER": 0.75
+    },
+    "otsu_psm3": {
+      "text": "Klamm bei Schottwien\n\nAufn.Dr.Nachura\nFilm 9x12,Nr.2548",
+      "CER": 0.10344827586206896,
+      "WER": 0.75
+    },
+    "otsu_psm6": {
+      "text": "Klamm bei Schottwien\nAufn.Dr.Machura\nFilm 9x12,Nr.2548",
+      "CER": 0.06896551724137931,
+      "WER": 0.75
+    },
+    "otsu_psm11": {
+      "text": "Klamm bei Schottwien\n\nAufn.Dr.Nachura\n\nFilm 9x12,Nr.2548",
+      "CER": 0.1206896551724138,
+      "WER": 0.75
+    },
+    "sauvola_psm3": {
+      "text": "Klamm bei Schottwien\n\nAufn.Dr.Nachura\nFilm 9x12,Nr.2548",
+      "CER": 0.10344827586206896,
+      "WER": 0.75
+    },
+    "sauvola_psm6": {
+      "text": "Klamm bei Schottwien\nAufn.Dr.Nachura\nFilm 9x12,Nr.2548",
+      "CER": 0.08620689655172414,
+      "WER": 0.75
+    },
+    "sauvola_psm11": {
+      "text": "Klamm bei Schottwien\n\nAufn.Dr.Nachura\n\nFilm 9x12,Nr.2548",
+      "CER": 0.1206896551724138,
+      "WER": 0.75
+    }
+  },
+  "0003_ImageFile_{0C19E755-3B3B-4C8D-BC0E-02E03ADCBA1D}1_crop2.png": {
+    "color_psm3": {
+      "text": "Wimbach-Isperklamn,\n\nAm 15.7.1957 noch immer Strassenzer-\nstörung.\n\nAufn.Meisinger,\n\nRollfilm Nr.48/10+11.",
+      "CER": 0.04807692307692308,
+      "WER": 0.8571428571428571
+    },
+    "color_psm6": {
+      "text": "Wimbach-Isperklamn,\n\nAm 15.7.1957 noch immer Strassenzer-\nstörung.\nAufn.Meisinger, ER\nRollfilm Nr.48/10+11.",
+      "CER": 0.057692307692307696,
+      "WER": 0.7142857142857143
+    },
+    "color_psm11": {
+      "text": "Wimbach-Isperklamn,\n\nAm 15.7.1957 noch immer Strassenzer-\n\nstörung.\n\nAufn.Meisinger,\n\nRollfilm Nr.48/10+11.",
+      "CER": 0.057692307692307696,
+      "WER": 1.0
+    },
+    "otsu_psm3": {
+      "text": "Wimbach-Isperklamn,\n\nAm 15.7.1957 noch immer Strassenzer-\nstörung.\n\nAufn.Meisinger,\n\nRollfilm Nr.48/10+11.",
+      "CER": 0.04807692307692308,
+      "WER": 0.8571428571428571
+    },
+    "otsu_psm6": {
+      "text": "Wimbach-Isperklamn,\n\nAm 15.7.1957 noch immer Strassenzer-\nstörung.\nAufn.Meisinger,\n\nRollfilm Nr.48/10+11.",
+      "CER": 0.038461538461538464,
+      "WER": 0.7142857142857143
+    },
+    "otsu_psm11": {
+      "text": "Wimbach-Isperklamn,\n\nAm 15.7.1957 noch immer Strassenzer-\n\nstörung.\n\nAufn.Meisinger,\n\nRollfilm Nr.48/10+11.",
+      "CER": 0.057692307692307696,
+      "WER": 1.0
+    },
+    "sauvola_psm3": {
+      "text": "Wimbach-Isperklamm,\n\nAm 15.7.1957 noch immer Strassenzer-\nstörung.\n\nAufn.Meisinger,\n\nRollfilm Nr.48/10+11.",
+      "CER": 0.038461538461538464,
+      "WER": 0.8571428571428571
+    },
+    "sauvola_psm6": {
+      "text": "Wimbach-Isperklamm,\n\nAm 15.7.1957 noch immer Strassenzer-\nstörung.\nAufn.Meisinger,\n\nRollfilm Nr.48/10+11.",
+      "CER": 0.028846153846153848,
+      "WER": 0.7142857142857143
+    },
+    "sauvola_psm11": {
+      "text": "Wimbach-Isperklamm,\n\nAm 15.7.1957 noch immer Strassenzer-\n\nstörung.\n\nAufn.Meisinger,\n\nRollfilm Nr.48/10+11.",
+      "CER": 0.04807692307692308,
+      "WER": 1.0
+    }
+  },
+  "0004_ImageFile_{0C19E755-3B3B-4C8D-BC0E-02E03ADCBA1D}24_crop2.png": {
+    "color_psm3": {
+      "text": "Wullersdorf,\n\nStieleichen, Naturdenkmal\nAufn. Meisinger, Feber. 1959\nRollfilm 4x6,Nr. 68/1 üsB;",
+      "CER": 0.06451612903225806,
+      "WER": 0.5
+    },
+    "color_psm6": {
+      "text": "Wullersdorf,\nStieleichen, Naturdenkmal\nAufn.Meisinger,Feber. 1959\nRollfilm 4x6,Nr.68/1 u.2.",
+      "CER": 0.043010752688172046,
+      "WER": 0.625
+    },
+    "color_psm11": {
+      "text": "Wullersdorf\n\nStieleichen, Naturdenkmal\n\nAufn. Meisinger, Feber. 1959\n\nRollfilm 4x6,Nr. 68/1 üsB;",
+      "CER": 0.08602150537634409,
+      "WER": 1.0
+    },
+    "otsu_psm3": {
+      "text": "Wullersdorf,\n\nStieleichen, Naturdenkmal\nAufn. Meisinger, Feber. 1959\nRollfilm 4x6,Nr. 68/1 u.2.",
+      "CER": 0.021505376344086023,
+      "WER": 0.375
+    },
+    "otsu_psm6": {
+      "text": "Wullersdorf,\nStieleichen,Naturdenkmal\nAufn.Meisinger,Feber. 1959\nRollfilm 4x6,Nr.68/1 u.2.",
+      "CER": 0.053763440860215055,
+      "WER": 0.75
+    },
+    "otsu_psm11": {
+      "text": "Wullersdorf\n\nStieleichen, Naturdenkmal\n\nAufn. Meisinger, Feber. 1959\n\nRollfilm 4x6,Nr. 68/1 u.2.",
+      "CER": 0.043010752688172046,
+      "WER": 0.875
+    },
+    "sauvola_psm3": {
+      "text": "Wullersdorf,\n\nStieleichen, Naturdenkmal\nAufn. Meisinger, Feber. 1959\nRollfilm 4x6,Nr. 83/1 u.2.",
+      "CER": 0.043010752688172046,
+      "WER": 0.5
+    },
+    "sauvola_psm6": {
+      "text": "Wullersdorf,\n\nStieleichen, Naturdenkmal\n\nAufn.Meisinger,Feber. 1959\nRollfilm 4x6,Nr.68/1 u.2.",
+      "CER": 0.06451612903225806,
+      "WER": 0.75
+    },
+    "sauvola_psm11": {
+      "text": "Mullersdorf\n\nStieleichen, Naturdenkmal\n\nAufn. Meisinger, Feber. 1959\n\nRollfilm 4x6,Nr. 83/1 u.2.",
+      "CER": 0.07526881720430108,
+      "WER": 1.0
+    }
+  },
+  "0005_ImageFile_{0ED568EF-E9F6-4D1A-8476-7EC13F97B062}16_crop2.png": {
+    "color_psm3": {
+      "text": "Lassee\nFlugerdeverwehungen\n\nAufn.Meisinger\nRollfilm 4x6,N.Sch.K.258",
+      "CER": 0.04411764705882353,
+      "WER": 1.0
+    },
+    "color_psm6": {
+      "text": "Lassee\nFlugerdeverwehungen\nAufn.Meis inger\n\nRollfilm 4x6,N.Sch.K.258",
+      "CER": 0.058823529411764705,
+      "WER": 1.0
+    },
+    "color_psm11": {
+      "text": "Lassee\n\nFlugerdeverwehungen\n\nAufn.Meisinger\n\nRollfilm 4x6,N.Sch.K.258",
+      "CER": 0.07352941176470588,
+      "WER": 1.25
+    },
+    "otsu_psm3": {
+      "text": "Lassee\nFlugerdeverwehungen\n\nAufn.Meisinger\nRollfilm 4x6,N.Sch.K.258",
+      "CER": 0.04411764705882353,
+      "WER": 1.0
+    },
+    "otsu_psm6": {
+      "text": "Lassee\nFlugerdeverwehungen\nAufn.Meisinger\n\nRollfilm 4x6,N.Sch.K.258",
+      "CER": 0.04411764705882353,
+      "WER": 1.0
+    },
+    "otsu_psm11": {
+      "text": "Lassee\n\nFlugerdeverwehungen\n\nkufn.Neisinger\n\nRollfilm 4x6,N.Sch.K.258",
+      "CER": 0.10294117647058823,
+      "WER": 1.25
+    },
+    "sauvola_psm3": {
+      "text": "Lassee\nFlugerdeverwehungen\n\n\"ufn.Meisinger\nRollfilm 4x6,N.5ch.K.258",
+      "CER": 0.07352941176470588,
+      "WER": 1.0
+    },
+    "sauvola_psm6": {
+      "text": "Lassee\nFlugerdeverwehungen\n\"ufn.Meisinger\n\nRollfilm 4x6,N.5ch.K.258",
+      "CER": 0.07352941176470588,
+      "WER": 1.0
+    },
+    "sauvola_psm11": {
+      "text": "Lassee\n\nFlugerdeverwehungen\n\n\"ufn.Meisinger\n\nRollfilm 4x6,N.Sch.K.258",
+      "CER": 0.08823529411764706,
+      "WER": 1.25
+    }
+  },
+  "0006_ImageFile_{0F3BA1D5-D334-47C6-B148-F3DDDABB36B1}5_crop2.png": {
+    "color_psm3": {
+      "text": "Stixensteinklamn\n\nAufn.Dr.L.Machura 1949\n-Film Nr.25,Neg.i1 u.2",
+      "CER": 0.18309859154929578,
+      "WER": 1.0
+    },
+    "color_psm6": {
+      "text": "Stixensteinklamm\nAufn.Dr.L.Machura 1949\n-Film Nr.25,Neg.i1 u.2",
+      "CER": 0.15492957746478872,
+      "WER": 1.0
+    },
+    "color_psm11": {
+      "text": "Stixensteinklamn\n\nAufn Dr.,L.Machura 1949\n\n-Film Nr.25,Neg.1 u.2",
+      "CER": 0.16901408450704225,
+      "WER": 0.8888888888888888
+    },
+    "otsu_psm3": {
+      "text": "‚Stixensteinklamm\n\nAufn.Dr.L.Machura 1949\n-Film Nr.25,Neg.i1 u.2,",
+      "CER": 0.19718309859154928,
+      "WER": 1.0
+    },
+    "otsu_psm6": {
+      "text": "Aufn.Dr.L.Machura 1949\n-Film Nr.25,Neg.i1 u.2,",
+      "CER": 0.4084507042253521,
+      "WER": 1.0
+    },
+    "otsu_psm11": {
+      "text": "‚Stixensteinklamm\n\nAufn,Dr.1L.Machura 1949\n\n-Film Nr.25,Neg.1 u.2",
+      "CER": 0.18309859154929578,
+      "WER": 0.8888888888888888
+    },
+    "sauvola_psm3": {
+      "text": "Stixensteinklarm\n\nAufn.Dr,L.Kachura 1949\n-Film Ir.25,Neg.1 u.2,",
+      "CER": 0.22535211267605634,
+      "WER": 1.0
+    },
+    "sauvola_psm6": {
+      "text": "Aufn.Dr,L.lachura 1949\n-Film Nr.25,Neg.i u.2",
+      "CER": 0.4225352112676056,
+      "WER": 1.0
+    },
+    "sauvola_psm11": {
+      "text": "Stixensteinklarm\n\nAufn.Dr,L.Kachura 1949\n\n-Film Nr.25,leg.1 u.2",
+      "CER": 0.2112676056338028,
+      "WER": 1.0
+    }
+  },
+  "0007_ImageFile_{0F3BA1D5-D334-47C6-B148-F3DDDABB36B1}17_crop1.png": {
+    "color_psm3": {
+      "text": "St.Johann a.d.D.\n\nAufn.Dr.Machura\nLeica Film Nr.31/23",
+      "CER": 0.08928571428571429,
+      "WER": 0.875
+    },
+    "color_psm6": {
+      "text": "St.Johann a.d.D.\nAufn.Dr.Machura\nLeica Film Nr.31/23",
+      "CER": 0.07142857142857142,
+      "WER": 0.875
+    },
+    "color_psm11": {
+      "text": "St ‚Johann a.d.D.\n\nAufn.Dr.Machura\n\nLeica Film Nr.31/23",
+      "CER": 0.125,
+      "WER": 0.875
+    },
+    "otsu_psm3": {
+      "text": "St.Johann a.d.D,\n\nAufn.Dr.Machura\nLeica Film Nr.31/23",
+      "CER": 0.10714285714285714,
+      "WER": 0.875
+    },
+    "otsu_psm6": {
+      "text": "St.Johann a.d.D,\nAufn.Dr.Machura\nLeica Film Nr.31/23",
+      "CER": 0.08928571428571429,
+      "WER": 0.875
+    },
+    "otsu_psm11": {
+      "text": "St.Johaun a.d.D,.\n\nAufn.Dr.Machura\n\nLeica Film Nr.31/23",
+      "CER": 0.14285714285714285,
+      "WER": 0.875
+    },
+    "sauvola_psm3": {
+      "text": "St.Jobann a.d.D,\n\nAufn.Dr.Machura\nLeica Film Nr.31/23",
+      "CER": 0.125,
+      "WER": 0.875
+    },
+    "sauvola_psm6": {
+      "text": "Aufn.Dr.Machura\nLeica Film Nr.31/23",
+      "CER": 0.375,
+      "WER": 0.875
+    },
+    "sauvola_psm11": {
+      "text": "St.Johbann a.d.D,\n\nAufn.Dr.Machura\n\nLeica Film Nr.31/23",
+      "CER": 0.14285714285714285,
+      "WER": 0.875
+    }
+  },
+  "0008_ImageFile_{0F6741F9-F1C3-433A-B35E-2153C5DCC713}9_crop2.png": {
+    "color_psm3": {
+      "text": "Piesting,Haus Kupelwieser\nLinde u.Platane ‚Kastanienallee\nAufn.Meisinger,Feber 1960\nRollfilm 4x6,Nr.83/6+/7",
+      "CER": 0.0625,
+      "WER": 0.8181818181818182
+    },
+    "color_psm6": {
+      "text": "Piesting,Haus Kupelwieser\nLinde u.Platane ‚Kastanienallee\nAufn.Meisinger,Feber 1960\nRollfilm 4x6,Nr.83/6+/7",
+      "CER": 0.0625,
+      "WER": 0.8181818181818182
+    },
+    "color_psm11": {
+      "text": "Piesting,Haus Kupelwieser\n\nLinde u.Platane ‚Kastanienallee\n\nAufn.Meisinger,Feber 1960\n\nRollfilm 4x6,Nr.83/6+/7",
+      "CER": 0.08928571428571429,
+      "WER": 1.0
+    },
+    "otsu_psm3": {
+      "text": "Piesting,Haus Kupelwieser\nLinde u.Platane ‚Kastanienallee\nAufn.Meisinger,feber 1960\nRollfilm 4x6,Nr.83/6+/7",
+      "CER": 0.07142857142857142,
+      "WER": 0.8181818181818182
+    },
+    "otsu_psm6": {
+      "text": "Piesting,Haus Kupelwieser\nLinde u.Platane ‚Kastanienallee\nAufn.Meisinger,feber 1960\nRollfilm 4x6,Nr.83/6+/7",
+      "CER": 0.07142857142857142,
+      "WER": 0.8181818181818182
+    },
+    "otsu_psm11": {
+      "text": "Piesting,Haus Kupelwieser\n\nLinde u.Platane ‚Kastanienallee\n\nAufn.Meisinger,feber 1960\n\nRollfilm 4x6,Nr.83/6+/7",
+      "CER": 0.09821428571428571,
+      "WER": 1.0
+    },
+    "sauvola_psm3": {
+      "text": "Piesting,Haus Kupelwieser\nLinde u.Platane ‚Kastanienallee\nAufn.Meisinger,feber 1960\nRollfilm 4x6,1r.83/6+/7",
+      "CER": 0.08035714285714286,
+      "WER": 0.8181818181818182
+    },
+    "sauvola_psm6": {
+      "text": "Piesting,Haus Kupelwieser\nLinde u.Platane ‚Kastanienallee\nAufn.Meisinger,feber 1960\nRollfilm 4x6,1r.83/6+/7",
+      "CER": 0.08035714285714286,
+      "WER": 0.8181818181818182
+    },
+    "sauvola_psm11": {
+      "text": "Piesting,Haus Kupelwieser\n\nLinde u.Platane ‚Kastanienallee\n\nAufn.Meisinger,feber 1960\n\nRollfilm 4x6,N1r.83/6+/7",
+      "CER": 0.10714285714285714,
+      "WER": 1.0
+    }
+  },
+  "0009_ImageFile_{3C58EEA2-78DF-41C1-B50E-9C7BB36A6144}7_crop1.png": {
+    "color_psm3": {
+      "text": "Horn\nGingkobaum\n\nAufn.Meisinger,Jänner 1959\nRollfilm 4x6,Nr.64,4. ,",
+      "CER": 0.08955223880597014,
+      "WER": 0.8333333333333334
+    },
+    "color_psm6": {
+      "text": "Ho rn:\nGingkobaum 7\nAufn.Meisinger,Jänner 1959\nRollfilm 4x6,Nr.64,4. , »",
+      "CER": 0.16417910447761194,
+      "WER": 1.0
+    },
+    "color_psm11": {
+      "text": "Bern\n\nGingkobaum\n\nAufn.Meisinger,Jänner 1959\n\nRollfilm 4x6,Nr.64,4. ,",
+      "CER": 0.14925373134328357,
+      "WER": 1.1666666666666667
+    },
+    "otsu_psm3": {
+      "text": "Horn\nGingkobaum\n\nAufn.Meisinger,Jänner 1959\nRollfilm Ax6,Nr.64,4.",
+      "CER": 0.07462686567164178,
+      "WER": 0.8333333333333334
+    },
+    "otsu_psm6": {
+      "text": "Horn\nGingkobaum -\nAufn.Meisinger,Jänner 1959\nRollfilm 4x6,Nr.64,4,",
+      "CER": 0.08955223880597014,
+      "WER": 0.8333333333333334
+    },
+    "otsu_psm11": {
+      "text": "Horn\n\nGingkobaum\n\nAufn.Meisinger,Jänner 1959\n\nRollfilm 4x6,Nr.64,4.",
+      "CER": 0.08955223880597014,
+      "WER": 1.0
+    },
+    "sauvola_psm3": {
+      "text": "Horn\nGingkobaum\n\nAufn.Meisinger, Jänner 1959\nRollfilm 4x6,Nr.64,4,",
+      "CER": 0.05970149253731343,
+      "WER": 0.6666666666666666
+    },
+    "sauvola_psm6": {
+      "text": "Horn\nGingkobaum -\nAufn.Meisinger, Jänner 1959\nRollfilm 4x6,Nr.64,4,",
+      "CER": 0.07462686567164178,
+      "WER": 0.6666666666666666
+    },
+    "sauvola_psm11": {
+      "text": "Horn\n\nGingkobaum\n\nAufn.Neisinger, Jänner 1959\n\nRollfilm 4x6,Nr.64,4,",
+      "CER": 0.1044776119402985,
+      "WER": 1.0
+    }
+  },
+  "0010_ImageFile_{4CA414B9-2107-4C4B-81EF-7014A6C343E6}1_crop2.png": {
+    "color_psm3": {
+      "text": "3-8-0u:.81.5.5D\"8\n1 Eiche,Nat.Denkm.\n\nAufn,.Meisinger,Jänner 1958\nLeicaf.Nr.75, Neg.3+4.,",
+      "CER": 0.3048780487804878,
+      "WER": 1.0
+    },
+    "color_psm6": {
+      "text": "Sseh.e i.b,.b's\n\n1 Eiche,Nat.Denkm.\nAufn,.Meisinger,Jänner 1958\nLeicaf.Nr.75, Neg.3+4., !",
+      "CER": 0.21951219512195122,
+      "WER": 1.0
+    },
+    "color_psm11": {
+      "text": "3:.0.6:.8°7. 5:58\n\n1 Eiche,Nat.Denkm.\n\nAufn,.Meisinger,Jänner 1958\n\nLeicaf.Nr.75, Neg.3+4.,",
+      "CER": 0.32926829268292684,
+      "WER": 1.0
+    },
+    "otsu_psm3": {
+      "text": "Scheibbs\n1 Eiche, Nat.Denkm.\n\nAufn.Meisinger, Jänner 1958\nLeicaf.Nr.75, Neg.3+4,.,",
+      "CER": 0.0975609756097561,
+      "WER": 0.7777777777777778
+    },
+    "otsu_psm6": {
+      "text": "Scheibbs\n\n1 Eiche, Nat.Denkm.\nAufn.Meisinger, Jänner 1958\nLeicaf.Nr.75, Neg.3+4,.,",
+      "CER": 0.0975609756097561,
+      "WER": 0.8888888888888888
+    },
+    "otsu_psm11": {
+      "text": "Scheibbs\n\n1 Eiche,Nat.Denkm.\n\nAufn.Meisinger, Jänner 1958\n\nLeicaf.Nr.75, Neg.3+4,.,",
+      "CER": 0.10975609756097561,
+      "WER": 0.8888888888888888
+    },
+    "sauvola_psm3": {
+      "text": "Scheibbs\n1 Eiche,Nat.Denku.\n\nAufn.Wleisinger, Jänner 1958\nLeicaf.\\r.75, YVeg.3+4.,",
+      "CER": 0.13414634146341464,
+      "WER": 0.7777777777777778
+    },
+    "sauvola_psm6": {
+      "text": "Scheibbs\n\n1 Eiche,Nat.Denkn.\nAufn.Wleisinger, Jänner 1958\nLeicaf.\\r.75, YVeg.3+4.,",
+      "CER": 0.13414634146341464,
+      "WER": 0.8888888888888888
+    },
+    "sauvola_psm11": {
+      "text": "Scheibbs\n\n1 Eiche,Nat.Denkn.\n\nAufn.Wleisinger, Jänner 1958\n\nLeicaf.\\r.75, YVeg.3+4.,",
+      "CER": 0.15853658536585366,
+      "WER": 0.8888888888888888
+    }
+  },
+  "0011_ImageFile_{5A594376-9C39-4CB4-B1B2-69154A1BD6EB}1_crop2.png": {
+    "color_psm3": {
+      "text": "1.89.04 r\n\n2 Linden,Naturdenkmal\nAufn.Meisinger,Feber 1960.\nRollfilm 4x6,Nr.82/6 +/7,",
+      "CER": 0.15853658536585366,
+      "WER": 0.875
+    },
+    "color_psm6": {
+      "text": "SPD rIE\n\n2 Linden,Naturdenkmal\nAufn.Meisinger,Feber 1960.\nRollfilm 4x6,Nr.82/6 +/7,",
+      "CER": 0.13414634146341464,
+      "WER": 0.875
+    },
+    "color_psm11": {
+      "text": "I:SHPp.:cır\n\n2 Linden,Naturdenkmal\n\nAufn.Meisinger,Feber 1960.\n\nRollfilm 4x6,Nr.82/6 +/7,",
+      "CER": 0.18292682926829268,
+      "WER": 1.0
+    },
+    "otsu_psm3": {
+      "text": "Isper\n\n2 Linden,Naturdenkmal\nAufn.Meisinger,Feber 1960.\nRollfilm 4x6,Nr.82/6 +/7,",
+      "CER": 0.06097560975609756,
+      "WER": 0.875
+    },
+    "otsu_psm6": {
+      "text": "Isper\n\n2 Linden,Naturdenkmal\nAufn.Meisinger,Feber 1960.\nRollfilm 4x6,Nr.82/6 +/7,",
+      "CER": 0.06097560975609756,
+      "WER": 0.875
+    },
+    "otsu_psm11": {
+      "text": "Isper\n\n2 Linden,Naturdenkmal\n\nAufn.Meisinger,Feber 1960.\n\nRollfilm 4x6,Nr.82/6 +/7,",
+      "CER": 0.08536585365853659,
+      "WER": 1.0
+    },
+    "sauvola_psm3": {
+      "text": "Isper\n\n2 Linden,Naturdenkmal\nAufn.Meisinger,Feber 1960.\nRollfilm 4x6,Nr.82/6 +/7,",
+      "CER": 0.06097560975609756,
+      "WER": 0.875
+    },
+    "sauvola_psm6": {
+      "text": "Isper\n\n2 Linden,Naturdenkmal\nAufn.Meisinger,Feber 1960.\nRollfilm 4x6,Nr.82/6 +/7,",
+      "CER": 0.06097560975609756,
+      "WER": 0.875
+    },
+    "sauvola_psm11": {
+      "text": "Isper\n\n2 Linden,Naturdenkmal\n\nAufn.Meisinger,Feber 1960.\n\nRollfilm 4x6,Nr.82/6 +/7,",
+      "CER": 0.08536585365853659,
+      "WER": 1.0
+    }
+  },
+  "0012_ImageFile_{5DBE7A6B-D646-4798-900F-425618CA7093}6_crop2.png": {
+    "color_psm3": {
+      "text": "Stollberg\nEibenwaid,Naturdenkmal.\nAufn. Meisinger, Nov.1959.\nRollfilm 4x6,Nr.99/2 u.3,",
+      "CER": 0.056818181818181816,
+      "WER": 0.8571428571428571
+    },
+    "color_psm6": {
+      "text": "Stollberg\nEibenwald,Naturdenkmal.\nAufn.Meisinger, Nov.1959,\nRollfilm 4x6,Nr.99/2 u.3,",
+      "CER": 0.06818181818181818,
+      "WER": 1.0
+    },
+    "color_psm11": {
+      "text": "Stollberg\n\nEibenwaid,Naturdenkmal,\n\nAufn. Meisinger, Nov.1959.\n\nRollfilm 4x6,Nr.99/2 u.3",
+      "CER": 0.10227272727272728,
+      "WER": 1.1428571428571428
+    },
+    "otsu_psm3": {
+      "text": "Stollberg\nEibenwaid,Naturdenkmal,.\nAufn.Meisinger, Nov.1959.\nRollfilm 4x6,Nr.99/2 u.3,",
+      "CER": 0.07954545454545454,
+      "WER": 1.0
+    },
+    "otsu_psm6": {
+      "text": "Stollberg\nEibenwaid,Naturdenkmal,.\nAufn.Meisinger, Nov.1959.\nRollfilm 4x6,Nr.99/2 u.3,",
+      "CER": 0.07954545454545454,
+      "WER": 1.0
+    },
+    "otsu_psm11": {
+      "text": "Stollberg\n\nEibenwaid,Naturdenkmal,.\n\nAufn.Meisinger, Nov.1959.\n\nRollfilm 4x6,Nr.99/2 u.3,",
+      "CER": 0.11363636363636363,
+      "WER": 1.0
+    },
+    "sauvola_psm3": {
+      "text": "Stollberg\nBEibenwaid,Naturdenkmal.\nAufn.Meisinger, Nov.1959,\nRollfilm 4x6,Nr.99/2 u.3,",
+      "CER": 0.09090909090909091,
+      "WER": 1.0
+    },
+    "sauvola_psm6": {
+      "text": "Stollberg\nBEibenwaid,Naturdenkmal.\nAufn.Meisinger, Nov.1959,\nRollfilm 4x6,Nr.99/2 u.3,",
+      "CER": 0.09090909090909091,
+      "WER": 1.0
+    },
+    "sauvola_psm11": {
+      "text": "Stollberg\n\nBEibenwaid,Naturdenkmal.\n\nAufn.Meisinger, Nov.1959,\n\nRollfilm 4x6,Nr.99/2 u.3,",
+      "CER": 0.125,
+      "WER": 1.0
+    }
+  },
+  "0013_ImageFile_{6A542B02-D73E-46A6-9493-D5F8DCE9CC7F}10_crop2.png": {
+    "color_psm3": {
+      "text": "Miesenbach-Scheuchenstein\n\nGauermannhof n. gesch.Bäumen\nAufn.Meisnger, Juni 1959\n\nRollfilm 4x6,Neg.Nr.75/1,76/14",
+      "CER": 0.16,
+      "WER": 1.0
+    },
+    "color_psm6": {
+      "text": "Miesenbach-Scheuchenstein\nGauermannhof m.gesch-Bäumen\nAufn.Meisnger,Juni 1959\nRollfilm 4x6,Neg.Nr.75/1,76/14",
+      "CER": 0.144,
+      "WER": 0.7777777777777778
+    },
+    "color_psm11": {
+      "text": "Miesenbach-Scheuchenstein\n\nGauermannhof n. gesch. Bäumen\n\nAufn.Meisnger, Juni 1959\n\nRollfilm 4x6,Neg.Nr.75/1,76/14",
+      "CER": 0.16,
+      "WER": 1.1111111111111112
+    },
+    "otsu_psm3": {
+      "text": "Miesenbach-Scheuchenstein\n\nGauermannhof m.gesch. Bäumen\nAufn.Meisnger,Juni 1959\n\nRollfilm 4x6,Neg.Nr.75/1,76/14",
+      "CER": 0.144,
+      "WER": 1.0
+    },
+    "otsu_psm6": {
+      "text": "Miesenbach-Scheuchenstein\nGauermannhof m.gesch. Bäumen\nAufn.Meisnger,Juni 1959\nRollfilm 4x6,Neg.Nr.75/1,76/14",
+      "CER": 0.128,
+      "WER": 0.6666666666666666
+    },
+    "otsu_psm11": {
+      "text": "Miesenbach-Scheuchenstein\n\nGauermannhof m.gesch. Bäumen\n\nAufn.Meisnger,Juni 1959\n\nRollfilm 4x6,Neg.Nr.75/1,76/14",
+      "CER": 0.152,
+      "WER": 1.0
+    },
+    "sauvola_psm3": {
+      "text": "liesenbach-Scheuchenstein\n\nGauermannhof m.gesch: Bäumen\nAufn.Keisinger,Juni 1959\n\nRollfilm 4x6,Neg.1r.75/1,76/14",
+      "CER": 0.168,
+      "WER": 1.0
+    },
+    "sauvola_psm6": {
+      "text": "Miesenbach-Scheuchenstein\nGauermannhof m.gesch: Bäumen\nAufn.Keisinger,Juni 1959\nRollfilm 4x6,Neg.1r.75/1,76/14",
+      "CER": 0.144,
+      "WER": 0.7777777777777778
+    },
+    "sauvola_psm11": {
+      "text": "liesenbach-Scheuchenstein\n\nGauermannhof m.gesch: Bäumen\n\nAufn.Keisinger,Juni 1959\n\nRollfilm 4x6,Neg.1r.75/1,76/14",
+      "CER": 0.176,
+      "WER": 1.0
+    }
+  },
+  "0013_ImageFile_{6A542B02-D73E-46A6-9493-D5F8DCE9CC7F}10_crop3.png": {
+    "color_psm3": {
+      "text": "Eiche 76/14",
+      "CER": 0.912,
+      "WER": 0.8888888888888888
+    },
+    "color_psm6": {
+      "text": "Eiche 76/14",
+      "CER": 0.912,
+      "WER": 0.8888888888888888
+    },
+    "color_psm11": {
+      "text": "Eiche 76/14",
+      "CER": 0.912,
+      "WER": 0.8888888888888888
+    },
+    "otsu_psm3": {
+      "text": "Eiche 76/14",
+      "CER": 0.912,
+      "WER": 0.8888888888888888
+    },
+    "otsu_psm6": {
+      "text": "Eiche 76/14",
+      "CER": 0.912,
+      "WER": 0.8888888888888888
+    },
+    "otsu_psm11": {
+      "text": "Eiche 76/14",
+      "CER": 0.912,
+      "WER": 0.8888888888888888
+    },
+    "sauvola_psm3": {
+      "text": "Eiche 76/14",
+      "CER": 0.912,
+      "WER": 0.8888888888888888
+    },
+    "sauvola_psm6": {
+      "text": "Eiche 76/14",
+      "CER": 0.912,
+      "WER": 0.8888888888888888
+    },
+    "sauvola_psm11": {
+      "text": "Eiche 76/14",
+      "CER": 0.912,
+      "WER": 0.8888888888888888
+    }
+  },
+  "0014_ImageFile_{7BC25CE2-0578-43ED-AC7C-FD1769B4CB53}9_crop2.png": {
+    "color_psm3": {
+      "text": "Regelsbrunner Au\n\n\"Aufn.Dr.Machura 1948 _\n-Film Nr.19,Neg.29 u.28",
+      "CER": 0.17142857142857143,
+      "WER": 0.8888888888888888
+    },
+    "color_psm6": {
+      "text": "Regelsbrunner u\n\"Aufn.Dr.Machura 1948\n-Film Nr.19,Neg.29 u.28",
+      "CER": 0.15714285714285714,
+      "WER": 0.8888888888888888
+    },
+    "color_psm11": {
+      "text": "Regelsbrunner Au\n\nYAufn.Dr.Machura 1948\n\n-Film Nr.19,Neg.29 u.28",
+      "CER": 0.15714285714285714,
+      "WER": 0.8888888888888888
+    },
+    "otsu_psm3": {
+      "text": "Regelsbrunner Au\n\nAufn.Dr.NMachura 1948\n-Film Nr.19,Neg.29 u.28",
+      "CER": 0.14285714285714285,
+      "WER": 0.8888888888888888
+    },
+    "otsu_psm6": {
+      "text": "Regelsbrunner Au\nAufn.Dr.NMachura 1948\n-Film Nr.19,Neg.29 u.28",
+      "CER": 0.12857142857142856,
+      "WER": 0.8888888888888888
+    },
+    "otsu_psm11": {
+      "text": "-\n\nRegelsbrunner Au\n\nAufn.Dr.NMachura 1948\n\n-Film Nr.19,Neg.29 u.28",
+      "CER": 0.18571428571428572,
+      "WER": 1.0
+    },
+    "sauvola_psm3": {
+      "text": "‚Regelsbrunner Au\n\nAufn.Dr.KMachura 1948\n-Film Nr.19,Neg.29 u.28",
+      "CER": 0.15714285714285714,
+      "WER": 1.0
+    },
+    "sauvola_psm6": {
+      "text": "Regelsbrunner u\nAufn.Dr.KMachura 1948\n-Film Nr.19,Neg.29 u.28",
+      "CER": 0.14285714285714285,
+      "WER": 0.8888888888888888
+    },
+    "sauvola_psm11": {
+      "text": "_\n\n‚Regelsbrunner Au\n\nAufn.Dr.KMachura 1948\n\n-Film Nr.19,Neg.29 u.28",
+      "CER": 0.2,
+      "WER": 1.0
+    }
+  },
+  "0015_ImageFile_{7BC25CE2-0578-43ED-AC7C-FD1769B4CB53}15_crop2.png": {
+    "color_psm3": {
+      "text": "Regelsbrunner Au\n\nAufn.Dr.Machura 148\nFilm Nr.19,Neg.Nr.21,u.22",
+      "CER": 0.17567567567567569,
+      "WER": 0.8571428571428571
+    },
+    "color_psm6": {
+      "text": "Regelsbrunner Au ? =\nAufn.Dr.Machura 148\nFilm Nr.19,Neg.Nr.21,u.22",
+      "CER": 0.21621621621621623,
+      "WER": 0.8571428571428571
+    },
+    "color_psm11": {
+      "text": "Regelsbrunner Au\n\nAufn.Dr.Machura 1948\n\nFilm Nr.19,Neg.Nr.21,u.22",
+      "CER": 0.16216216216216217,
+      "WER": 0.8571428571428571
+    },
+    "otsu_psm3": {
+      "text": "Regelsbrunner Au _\n\nAufn.Dr.Machura 1948\nFilm Nr.19,Neg.Nr.21,u.22",
+      "CER": 0.1891891891891892,
+      "WER": 0.8571428571428571
+    },
+    "otsu_psm6": {
+      "text": "Regelsbrunner Au _\nAufn.Dr.Machura 1948\nFilm Nr.19,Neg.Nr.21,u.22",
+      "CER": 0.17567567567567569,
+      "WER": 0.8571428571428571
+    },
+    "otsu_psm11": {
+      "text": "Regelsbrunner Au_\n\nAufn.Dr.Machura 1948\n\nFilm Nr.19,Neg.Nr.21,u.22",
+      "CER": 0.17567567567567569,
+      "WER": 0.8571428571428571
+    },
+    "sauvola_psm3": {
+      "text": "Regelsbrunner Au\n\nAufn,.Dr.Machura 1948\nFilm Nr.19,lleg.Nr.21,u.22",
+      "CER": 0.20270270270270271,
+      "WER": 0.8571428571428571
+    },
+    "sauvola_psm6": {
+      "text": "Regelsbrunner Au\nAufn.Dr.Machura 1948\nFilm Nr.19,lleg.Nr.21,u.22",
+      "CER": 0.17567567567567569,
+      "WER": 0.8571428571428571
+    },
+    "sauvola_psm11": {
+      "text": "Regelsbrunner Au_\n\nAufn.Dr.Nachura 1948\n\nFilm Nr.19,lleg.Nr.21,u.22",
+      "CER": 0.21621621621621623,
+      "WER": 0.8571428571428571
+    }
+  },
+  "0016_ImageFile_{7BC25CE2-0578-43ED-AC7C-FD1769B4CB53}22_crop2.png": {
+    "color_psm3": {
+      "text": "Regelsbrunn 1948\nBlick auf die Donau\ngegen Osten\n\nAufn,.Dr.Machura\nLeica Film Nr.36/30,",
+      "CER": 0.06896551724137931,
+      "WER": 0.45454545454545453
+    },
+    "color_psm6": {
+      "text": "Regelsbrunn 1948\nBlick auf die Donau\ngegen Osten\nAufn.Dr.Machura\nLeica Film Nr.36/30,",
+      "CER": 0.04597701149425287,
+      "WER": 0.45454545454545453
+    },
+    "color_psm11": {
+      "text": "Regelsbrunn 1948\n\nBlick auf die Donau\n\ngegen Osten\n\nAufn,.Dr.Machura\n\nLeica Film Nr.36/30,",
+      "CER": 0.10344827586206896,
+      "WER": 0.8181818181818182
+    },
+    "otsu_psm3": {
+      "text": "Regelsbrunn 1948\nBlick auf die Donau\ngegen Osten\n\nAufn. Dr.Machura\nLeica Film Nr.36/30",
+      "CER": 0.034482758620689655,
+      "WER": 0.45454545454545453
+    },
+    "otsu_psm6": {
+      "text": "Regelsbrunn 1948\nBlick auf die Donau\ngegen Osten\n\nAufn. Dr.Machura\nLeica Film Nr.36/30",
+      "CER": 0.034482758620689655,
+      "WER": 0.45454545454545453
+    },
+    "otsu_psm11": {
+      "text": "Regelsbrunn 1948\n\nBlick auf die Domau\n\ngegen Osten\n\nAufn. Dr.Machura\n\nLeica Film Nr.36/30",
+      "CER": 0.08045977011494253,
+      "WER": 0.9090909090909091
+    },
+    "sauvola_psm3": {
+      "text": "Regelsbrunn 1948\nBlick auf die Donau\ngegen Osten\n\nAufn.Dr.Machura\nLeica Film Nr.36/30.",
+      "CER": 0.05747126436781609,
+      "WER": 0.45454545454545453
+    },
+    "sauvola_psm6": {
+      "text": "Regelsbrunn 1948\nBlick auf die Donau\ngegen Osten\nAufn.Dr.Machura\nLeica Film Nr.36/30.",
+      "CER": 0.04597701149425287,
+      "WER": 0.45454545454545453
+    },
+    "sauvola_psm11": {
+      "text": "Regelsbrunn 1948\n\nBlick auf die Donau\n\ngegen Osten\n\nAufn, Dr.Nachura\n\nLeica Film Nr.36/30.",
+      "CER": 0.10344827586206896,
+      "WER": 0.9090909090909091
+    }
+  },
+  "0017_ImageFile_{8F461A02-3925-4FC3-BB3F-DE358F659ED5}6_crop1.png": {
+    "color_psm3": {
+      "text": "Schneeberg v.Kreuzberg aus\nAufn.Meisinger,Feber 1960\nRollfilm 4x6,Nr.82/13.,",
+      "CER": 0.06329113924050633,
+      "WER": 0.7777777777777778
+    },
+    "color_psm6": {
+      "text": "Schneeberg v.Kreuzberg aus\nAufn.Meisinger,Feber 1960\nRollfilm 4x6,Nr.82/13.,",
+      "CER": 0.06329113924050633,
+      "WER": 0.7777777777777778
+    },
+    "color_psm11": {
+      "text": "Schneeberg v.Kreuzberg aus\n\nAufn.Meisinger,Feber 1960\n\nRollfilm 4x6, Nr.82/13.,",
+      "CER": 0.10126582278481013,
+      "WER": 0.8888888888888888
+    },
+    "otsu_psm3": {
+      "text": "Schneeberg v.Kreuzberg aus\nAufn.Meisinger,Feber 1960\nRollfilm 4x6,Nr.82/13.,",
+      "CER": 0.06329113924050633,
+      "WER": 0.7777777777777778
+    },
+    "otsu_psm6": {
+      "text": "Schneeberg v.Kreuzberg aus\nAufn.Meisinger,Feber 1960\nRollfilm 4x6,Nr.82/13.,",
+      "CER": 0.06329113924050633,
+      "WER": 0.7777777777777778
+    },
+    "otsu_psm11": {
+      "text": "Schneeberg v.Kreuzberg aus\n\nAufn.Meisinger,Feber 1960\n\nRollfilm 4x6,Nr.82/13.,",
+      "CER": 0.08860759493670886,
+      "WER": 0.8888888888888888
+    },
+    "sauvola_psm3": {
+      "text": "Schneeberg v.Kreuzberg aus\nAufn,.Meisinger,Feber 1960\nRollfilm 4x6,Nr.82/13.,",
+      "CER": 0.0759493670886076,
+      "WER": 0.7777777777777778
+    },
+    "sauvola_psm6": {
+      "text": "Schneeberg v.Kreuzberg aus\nAufn,.Meisinger,Feber 1960\nRollfilm 4x6,Nr.82/13.,",
+      "CER": 0.0759493670886076,
+      "WER": 0.7777777777777778
+    },
+    "sauvola_psm11": {
+      "text": "Schneeberg v.Kreuzberg aus\n\nAufn.Meisinger,Feber 1960\n\nRollfilm 4x6,Nr.82/13.,",
+      "CER": 0.08860759493670886,
+      "WER": 0.8888888888888888
+    }
+  },
+  "0018_ImageFile_{8F461A02-3925-4FC3-BB3F-DE358F659ED5}7_crop2.png": {
+    "color_psm3": {
+      "text": "Breitenstein geg.\nSchneeberg u.Rax\n\nAufn.Meisinger,Mai 1961\nRollfilm Nr.94/5+6,",
+      "CER": 0.07407407407407407,
+      "WER": 0.6666666666666666
+    },
+    "color_psm6": {
+      "text": "Breitenstein geg.\nSchneeberg u.Rax\nAufn.Meisinger,Mai 1961\nRollfilm Nr.94/5+6,",
+      "CER": 0.06172839506172839,
+      "WER": 0.6666666666666666
+    },
+    "color_psm11": {
+      "text": "Breitenstein geg.\n\nSchneeberg u.Rax\n\nAufn.Meisinger,Mai 1961\n\nRollfilm Nr.94/5+6,",
+      "CER": 0.09876543209876543,
+      "WER": 0.8888888888888888
+    },
+    "otsu_psm3": {
+      "text": "Breitenstein geg.\nSchneeberg u.Rax\n\nAufn.Meisinger,Mai 1961\nRollfilm Nr.94/5+6",
+      "CER": 0.06172839506172839,
+      "WER": 0.6666666666666666
+    },
+    "otsu_psm6": {
+      "text": "Breitenstein geg.\nSchneeberg u.Rax\nAufn.Meisinger,Mai 1961\nRollfilm Nr.94/5+6",
+      "CER": 0.04938271604938271,
+      "WER": 0.6666666666666666
+    },
+    "otsu_psm11": {
+      "text": "Breitenstein geg.\n\nSchneeberg u.Rax\n\nAufn.Meisinger,Mai 1961\n\nRollfilm Nr.94/5+6",
+      "CER": 0.08641975308641975,
+      "WER": 0.8888888888888888
+    },
+    "sauvola_psm3": {
+      "text": "Breitenstein geg.\nSchneeberg u.Rax\nAufn.Meisinger,Mai 1961\nRollfilm Nr.94/5+6,",
+      "CER": 0.06172839506172839,
+      "WER": 0.6666666666666666
+    },
+    "sauvola_psm6": {
+      "text": "Breitenstein geg.\nSchneeberg u.Rax\nAufn.Meisinger,Mai 1961\nRollfilm Nr.94/5+6,",
+      "CER": 0.06172839506172839,
+      "WER": 0.6666666666666666
+    },
+    "sauvola_psm11": {
+      "text": "Breitenstein geg.\n\nSchneeberg u.Rax\n\nAufn.Meisinger,Mai 1961\n\nRollfilm Nr.94/5+6,",
+      "CER": 0.09876543209876543,
+      "WER": 0.8888888888888888
+    }
+  },
+  "0019_ImageFile_{10C1F899-70CB-4B90-BEEB-E2EB1E96ED68}9_crop2.png": {
+    "color_psm3": {
+      "text": "Schönau a.d.Triesting\nGuter Brückenbau\nAufn.Meisinger.Dez.1955\n\nKARLALIKEIT\n\nRollfilm 4x6,Neg.Nr.34 /",
+      "CER": 0.21348314606741572,
+      "WER": 0.7142857142857143
+    },
+    "color_psm6": {
+      "text": "Schönau a.d.Triesting\nGuter Brückenbau\nAufn.Meisinger.Dez.1955\nBALLAL/KFIT\n\nRollfilm ax6,Neg.Nr.54 /",
+      "CER": 0.2247191011235955,
+      "WER": 0.7142857142857143
+    },
+    "color_psm11": {
+      "text": "Schönau a.d.Triesting\n\nGuter Brückenbau\n\nAufn.Meisinger.Dez.1955\n\nKARLALIKEL\n\nRollfilm ax6,Neg.Nr.54 /",
+      "CER": 0.24719101123595505,
+      "WER": 1.1428571428571428
+    },
+    "otsu_psm3": {
+      "text": "Schönau a.d.Triesting\nGuter Brückenbau\nAufn.Meisinger.Dez.1955\n\nBARgAF/KE/T\n\nRollfilm 4x6,Neg.Nr.34 y",
+      "CER": 0.21348314606741572,
+      "WER": 0.7142857142857143
+    },
+    "otsu_psm6": {
+      "text": "Schönau a.d.Triesting\nGuter Brückenbau\nAufn.Meisinger.Dez.1955\nBARgRL/HF/]\n\nRollfilm ax6,Neg.Nr.54 /",
+      "CER": 0.2247191011235955,
+      "WER": 0.7142857142857143
+    },
+    "otsu_psm11": {
+      "text": "Schönau a.d.Triesting\n\nGuter Brückenbau\n\nAufn.Meisinger.Dez.1955\n\nBARgAF/K\n\nRollfilm ax6,Neg.Nr.54 /",
+      "CER": 0.2247191011235955,
+      "WER": 1.1428571428571428
+    },
+    "sauvola_psm3": {
+      "text": "Schönau a.d.Triesting\nGuter Brückenbau\nAufn.Meisinger.Dez.1955\n\nKARLALKFLT\n\nRollfilm Ax6,Neg.\\r.S4 /",
+      "CER": 0.23595505617977527,
+      "WER": 0.7142857142857143
+    },
+    "sauvola_psm6": {
+      "text": "Schönau a.d.Triesting\nGuter Brückenbau\nAufn.Meisinger.Dez.1955\nBARFALINEIT\n\nRollfilm ax6,Neg.Nr.54 /",
+      "CER": 0.2247191011235955,
+      "WER": 0.7142857142857143
+    },
+    "sauvola_psm11": {
+      "text": "Schönau a.d.Triesting\n\nGuter Brückenbau\n\nAufn.Meisinger.Dez.1955\n\nKARLALIKEL\n\nRollfilm ax6,Neg.Nr.54 /",
+      "CER": 0.24719101123595505,
+      "WER": 1.1428571428571428
+    }
+  },
+  "0020_ImageFile_{14ACCAD9-604A-4A25-A183-219FE7F5817D}18_crop2.png": {
+    "color_psm3": {
+      "text": "Neustadtl,\nTeufelsbettstein,Naturd.\nAufn.Meisinger,Nov.1959\nRollfilm 4x6,81/11+12.",
+      "CER": 0.023809523809523808,
+      "WER": 0.75
+    },
+    "color_psm6": {
+      "text": "Neustadt],\nTeufelsbettstein,Naturd.\nAufn.Meisinger,Nov.1959\nRollfilm 4x6,81/11+12.",
+      "CER": 0.03571428571428571,
+      "WER": 0.75
+    },
+    "color_psm11": {
+      "text": "Neustadtl,\n\nTeufelsbettstein,Naturd.\n\nAufn.Meisinger,Nov.1959\n\nRollfilm 4x6,81/11+12.",
+      "CER": 0.05952380952380952,
+      "WER": 1.0
+    },
+    "otsu_psm3": {
+      "text": "Neustadtl,\nTeufelsbettstein,Naturd.\nAufn.Meisinger,Nov.1959\nRollfilm 4x6,81/11+12.",
+      "CER": 0.023809523809523808,
+      "WER": 0.75
+    },
+    "otsu_psm6": {
+      "text": "Neustadt],\nTeufelsbettstein,Naturd.\nAufn.Meisinger,Nov.1959\nRollfilm 4x6,81/11+12.",
+      "CER": 0.03571428571428571,
+      "WER": 0.75
+    },
+    "otsu_psm11": {
+      "text": "Neustadtl,\n\nTeufelsbettstein,Naturd.\n\nAufn.Meisinger,Nov.1959\n\nRollfilm 4x6,81/11+12.",
+      "CER": 0.05952380952380952,
+      "WER": 1.0
+    },
+    "sauvola_psm3": {
+      "text": "Neustadtl,\nTeufelsbettstein,Naturd,\nAufn.leisinger,Nov.1959\nRollfilm 4x6,81/11+12.",
+      "CER": 0.047619047619047616,
+      "WER": 0.75
+    },
+    "sauvola_psm6": {
+      "text": "Neustadt],\nTeufelsbettstein,Naturd,\nAufn.leisinger,Nov.1959\nRollfilm 4x6,81/11+12.",
+      "CER": 0.05952380952380952,
+      "WER": 0.75
+    },
+    "sauvola_psm11": {
+      "text": "Neustadtl,\n\nTeufelsbettstein,Naturd.\n\nAufn.leisinger,Nov.1959\n\nRollfilm 4x6,81/11+12.",
+      "CER": 0.07142857142857142,
+      "WER": 1.0
+    }
+  },
+  "0021_ImageFile_{14ACCAD9-604A-4A25-A183-219FE7F5817D}19_crop2.png": {
+    "color_psm3": {
+      "text": "Neustadtl R\n\nPilzstein m.\"ensterl\nAufn.Meisinger,Nov.1959\nRollfilm 4x6,Nr.81/13+15.",
+      "CER": 0.0963855421686747,
+      "WER": 0.8333333333333334
+    },
+    "color_psm6": {
+      "text": "Neustadtl R\n\nPilzstein m.\"ensterl\nAufn.Meisinger,Nov.1959\nRollfilm 4x6,Nr.81/13+15.",
+      "CER": 0.0963855421686747,
+      "WER": 0.8333333333333334
+    },
+    "color_psm11": {
+      "text": "Neustadtl\n\nilzstein m.Fensterl\n\nAufn.Meisinger,Nov.1959\n\nRollfilm 4x6,Nr.81/13+15.",
+      "CER": 0.08433734939759036,
+      "WER": 0.8333333333333334
+    },
+    "otsu_psm3": {
+      "text": "Neustadtl i\n\nPilzstein m.\"ensterl\nAufn.Meisinger,Nov.1959\nRollfilm 4x6, Nr.81/13+15.",
+      "CER": 0.10843373493975904,
+      "WER": 1.0
+    },
+    "otsu_psm6": {
+      "text": "Neustadtl i\n\nPilzstein m.\"ensterl\nAufn.Meisinger,Nov.1959\nRollfilm 4x6, Nr.81/13+15.",
+      "CER": 0.10843373493975904,
+      "WER": 1.0
+    },
+    "otsu_psm11": {
+      "text": "Neustadtl\n\nPilzstein m.Fensterl\n\nAufn.Meisinger,Nov.1959\n\nRollfilm 4x6,Nr.81/13+15.",
+      "CER": 0.08433734939759036,
+      "WER": 0.8333333333333334
+    },
+    "sauvola_psm3": {
+      "text": "Neustadtl\n\nPjilzstein m.\"ensterl\nAufn.Keisinger,Nov.1959\nRollfilm 4x6, Nr.81/13+15.",
+      "CER": 0.10843373493975904,
+      "WER": 1.0
+    },
+    "sauvola_psm6": {
+      "text": "Neustadtl\n\nPjilzstein m.\"ensterl\nAufn.Keisinger,Nov.1959\nRollfilm 4x6, Nr.81/13+15.",
+      "CER": 0.10843373493975904,
+      "WER": 1.0
+    },
+    "sauvola_psm11": {
+      "text": "Neustadtl\n\nPilzstein m.\"ensterl\n\nAufn.Keisinger,Nov.1959\n\nRollfilm 4x6,Nr.81/13+15.",
+      "CER": 0.10843373493975904,
+      "WER": 0.8333333333333334
+    }
+  },
+  "0022_ImageFile_{23F95D01-1BCB-4B44-9472-A43537DE350B}2_crop2.png": {
+    "color_psm3": {
+      "text": "GeiBß berg\nVerunstaltete Landschaft\n\nAufn.Meisinger 1953 i\nL.Filr ir.ö4,Neg.Nr.18,19,",
+      "CER": 0.18888888888888888,
+      "WER": 0.9285714285714286
+    },
+    "color_psm6": {
+      "text": "GeiBß berg et\nVerunstaltete Landschaft\n\nAufn.Meisinger 1953\nL.Filr ir.ö4,Neg.Nr.18,19,",
+      "CER": 0.2,
+      "WER": 1.0
+    },
+    "color_psm11": {
+      "text": "Geißberg\n\nVe runstaltete Landschaft\n\nAufn.Meisinger 1953\n\nL.Filr ir.ö4,Neg.Nr.1\n\n8,19,\n\ng4",
+      "CER": 0.2777777777777778,
+      "WER": 1.0
+    },
+    "otsu_psm3": {
+      "text": "GeiB berg\nVerunstaltete Landschaft\nAufn.Meisinger 1953\n\nL.Filr Ir.04,Neg.Nr.18,19.",
+      "CER": 0.16666666666666666,
+      "WER": 0.9285714285714286
+    },
+    "otsu_psm6": {
+      "text": "GeiB berg \"\nVerunstaltete Landschaft\nAufn.Meisinger 1953\nL.Filr Ir.04,Neg.Nr.18,19.",
+      "CER": 0.17777777777777778,
+      "WER": 1.0
+    },
+    "otsu_psm11": {
+      "text": "GeiB berg\n\nVerunstaltete Landschaft\n\nAufn.Meisinger 1953\n\nL.Filr Ir.04,Neg.Nr.1\n\n8,19.\n\nI,",
+      "CER": 0.25555555555555554,
+      "WER": 1.0
+    },
+    "sauvola_psm3": {
+      "text": "GeiDB berg\nVerunstaltete Landschaft\nAufn.Meisinger 1953\n\nL.Filn üir.o4, Neg.iir.18,19.",
+      "CER": 0.17777777777777778,
+      "WER": 0.9285714285714286
+    },
+    "sauvola_psm6": {
+      "text": "GeiDB berg \"\nVerunstaltete Landschaft\nAufn.Meisinger 1953\nL.Filn ir.54,Neg.1r.18,19.",
+      "CER": 0.17777777777777778,
+      "WER": 1.0
+    },
+    "sauvola_psm11": {
+      "text": "GeiDB berg\n\nVerunstaltete Landschaft\n\nAufn.Meisinger 1953\n\nL.Filr ir.ö4,Neg.Er.1\n\n8,19.\n\n9",
+      "CER": 0.25555555555555554,
+      "WER": 1.0
+    }
+  },
+  "0023_ImageFile_{37EC9D6D-28BF-4C21-A49B-2D971EDDDBA0}1_crop2.png": {
+    "color_psm3": {
+      "text": "er eh ae\n\nSachsenbrunn, Kirchberg a.Wechsel\n\nFichte und Linden, Naturdenkmale\nAufn.Meisinger,Sept.2958. Be\n\nRollfilm 4x6,Nr.61/12,13.",
+      "CER": 0.18699186991869918,
+      "WER": 1.1111111111111112
+    },
+    "color_psm6": {
+      "text": "Sachsenbruna, Kirchberg a.lTe ehsel\nFichte und Linden,Naturdenkmale\nAufn.Meisinger,Sept.2958. Be\nRollfilm 4x6,Nr.61/12,13.",
+      "CER": 0.11382113821138211,
+      "WER": 0.7777777777777778
+    },
+    "color_psm11": {
+      "text": "ne\n\nun\n\nSachsonbrunn, Kirchberg a.Tochsel\n\nFichte und Linden, Naturdenkmale\n\nAufn.Meisinger,Sept.2958.\n\nze\n\nRollfilm 4x6,Nr.61/12,13.",
+      "CER": 0.1951219512195122,
+      "WER": 1.2222222222222223
+    },
+    "otsu_psm3": {
+      "text": "Pure une ee\n\nSachserbrunz, Kirchberg a,Wochsel\n\nFichte und Linden, Näaturdenkmale\nAufn.Meisinger,Sept.2958. 19\n\nRollfilm 4x6,Nr.61/12,13,",
+      "CER": 0.2601626016260163,
+      "WER": 1.2222222222222223
+    },
+    "otsu_psm6": {
+      "text": "Sachserbrunz, Kirchberg a.Tachsel\nFichte und Linden, Näaturdenkmale\nAufn.Meisinger,Sept.2958. 19\nRollfilm 4x6,Nr.61/12,13,",
+      "CER": 0.13821138211382114,
+      "WER": 0.7777777777777778
+    },
+    "otsu_psm11": {
+      "text": "wenn\n\noo.\n\nSachserbrunz, Kirchberg a.Tachsel\n\nFichte und Linden, Näaturdenkmale\n\nAufn.Meisinger,Sept.2958.\n\n19\n\nRollfilm 4x6,Nr.61/12,13,",
+      "CER": 0.24390243902439024,
+      "WER": 1.2222222222222223
+    },
+    "sauvola_psm3": {
+      "text": "Sachserbrunz Kirchberg a, Tıchsol\n\nFichte und Linden, Näturdenknale\nAufn.Meisinger,Sept.2958. 19\n\nRollfilm 4x6,Nr.61/12,13.",
+      "CER": 0.17073170731707318,
+      "WER": 1.0
+    },
+    "sauvola_psm6": {
+      "text": "Sachserbrunz, Kirchberg a,Tschsol\nFichte und Linden, Näturdenknale\nAufn.Meisinger,Sept.2958. 19\nRollfilm 4x6,Nr.61/12,13.",
+      "CER": 0.15447154471544716,
+      "WER": 0.7777777777777778
+    },
+    "sauvola_psm11": {
+      "text": "“\n\n-\n\nSachserbrunz, Kirchberg a.Tachsol\n\nFichte und Linden, Näturdenknale\n\nAufn.Keisinger,Sept.2958.\n\n19\n\nRollfilm 4x6,Nr.61/12,13.",
+      "CER": 0.21951219512195122,
+      "WER": 1.2222222222222223
+    }
+  },
+  "0024_ImageFile_{55A7DE5C-B366-4073-B27F-17A1278D5013}1_crop2.png": {
+    "color_psm3": {
+      "text": "Weikendorfer Remise\nNaturschutzgebiet\n\nWacholderhaine\n\nAufn.A Meisiuger 1951\nFilm 6x9,Nr.13,Neg.Nr.18,16.",
+      "CER": 0.08333333333333333,
+      "WER": 0.8888888888888888
+    },
+    "color_psm6": {
+      "text": "Weikendorfer Remise x\nNaturschutzgebiet / 2\nWacholderhaine\nAufn.A.Meisinger 1951\nFilm 6x9,Nr.13,Neg.Nr.18,16.",
+      "CER": 0.1111111111111111,
+      "WER": 0.8888888888888888
+    },
+    "color_psm11": {
+      "text": "Weikendorfer Remise\n\nNaturschutzgebiet\n\nWacholderhaine\n\nAufn.A Meisiuger 1951\n\nFilm 6x9,Nr.13,Neg.Nr.18, 16.",
+      "CER": 0.1111111111111111,
+      "WER": 1.0
+    },
+    "otsu_psm3": {
+      "text": "Weikendorfer Remise\nNaturschutzgebiet\n\nYacholderhaine\n\nAufn.A. Meisinger 1951\nFilm 6x9,Nr.15,Neg.Nr.18,16.",
+      "CER": 0.08333333333333333,
+      "WER": 0.8888888888888888
+    },
+    "otsu_psm6": {
+      "text": "Weikendorfer Remise\nNaturschutzgebiet\nWacholderhaine\nAufn.A.Meisinger 1951\n\nFilm 6x9,Nr.15,Neg.Nr.18,16.",
+      "CER": 0.07407407407407407,
+      "WER": 0.8888888888888888
+    },
+    "otsu_psm11": {
+      "text": "Weikendorfer Remise\n\nNaturschutzgebiet\n\nYacholderhaine\n\nAufn.A. Meisinger 1951\n\nFilm 6x9,Nr.i13,Neg.Nr.18,16",
+      "CER": 0.10185185185185185,
+      "WER": 0.8888888888888888
+    },
+    "sauvola_psm3": {
+      "text": "Weikendorfer Remise\nNaturschutzgebiet\n\nYacholderhaine\n\nAufn.A.Ueisinger 1951\nFilm 6x9,Nr.13,Neg.Nr.186,16.",
+      "CER": 0.10185185185185185,
+      "WER": 0.8888888888888888
+    },
+    "sauvola_psm6": {
+      "text": "Weikendorfer Remise\nNaturschutzgebiet\nWacholderhaine\nAufn.A.Neisinger 1951\n\nFilm 6x9,Nr.13,Neg.Nr.186,16.",
+      "CER": 0.08333333333333333,
+      "WER": 0.8888888888888888
+    },
+    "sauvola_psm11": {
+      "text": "Weikendorfer Remise\n\nNaturschutzgebiet\n\nYacholderhaine\n\nAufn.A.Ueisinger 1951\n\nFilm 6x9,Nr.13,Neg.Nr.18,16",
+      "CER": 0.12037037037037036,
+      "WER": 0.8888888888888888
+    }
+  },
+  "0025_ImageFile_{55A7DE5C-B366-4073-B27F-17A1278D5013}6_crop3.png": {
+    "color_psm3": {
+      "text": "Weikendorfer Remise\nNaturschutzgebiet\n\nBirkenhaine\n\nAufn.A.Messinger 1951\nFilm 6x9,Nr.13,Neg.Nr.13,14,",
+      "CER": 0.07692307692307693,
+      "WER": 0.875
+    },
+    "color_psm6": {
+      "text": "Weikendorfer Remise\nNaturschutzgebiet\nBirkenhaine : et\nAufn.A.Messinger 1951\nFilm 6x9,Nr.13,Neg.Nr.13,14,",
+      "CER": 0.10576923076923077,
+      "WER": 0.875
+    },
+    "color_psm11": {
+      "text": "Weikendorfer Remise\n\nNaturschutzgebiet\n\nBirkenhaine\n\nAufn.A.Me&singer 1951\n\nFilm 6x9, Nr.13,Neg.Nr.13,14,",
+      "CER": 0.08653846153846154,
+      "WER": 1.0
+    },
+    "otsu_psm3": {
+      "text": "Weikendorfer Remise\nNaturschutzgebiet\n\nBirkenhaine\n\nAufn.A.Meksinger 1951\nFilm 6x9,Nr.13,Neg.Nr.13,14,",
+      "CER": 0.07692307692307693,
+      "WER": 0.875
+    },
+    "otsu_psm6": {
+      "text": "Weikendorfer Remise .\nNaturschutzgebiet\nBirkenhaine j\nAufn.A.Meksinger 1951\n\nFilm 6x9,Nr.13,Neg.Nr.13,14,",
+      "CER": 0.10576923076923077,
+      "WER": 0.875
+    },
+    "otsu_psm11": {
+      "text": "Weikendorfer Remise\n\nNaturschutzgebiet\n\nBirkenhaine\n\nAufn.A.Meksinger 1951\n\nFilm 6x9,Nr.13,Neg.Nr.13,14,",
+      "CER": 0.09615384615384616,
+      "WER": 0.875
+    },
+    "sauvola_psm3": {
+      "text": "Weikendorfer Remise\nNaturschutzgebiet\n\nBirkenhaine\n\nAufn.A.Meksinger 1951\nFilm 6x9,Nr.13,Neg.Nr.13,14,",
+      "CER": 0.07692307692307693,
+      "WER": 0.875
+    },
+    "sauvola_psm6": {
+      "text": "Weikendorfer Remise .\nNaturschutzgebiet\nBirkenhaine .\nAufn.A.Meksinger 1951\n\nFilm 6x9,Nr.13,Neg.Nr.13,14,",
+      "CER": 0.10576923076923077,
+      "WER": 0.875
+    },
+    "sauvola_psm11": {
+      "text": "Teikendorfer Remise\n\nNaturschutzgebiet\n\nBirkenhaine\n\nAufn.A.Meksinger 1951\n\nFilm 6x9,Nr.13,Neg.Nr.13,14,",
+      "CER": 0.10576923076923077,
+      "WER": 1.0
+    }
+  },
+  "0026_ImageFile_{55A7DE5C-B366-4073-B27F-17A1278D5013}15_crop2.png": {
+    "color_psm3": {
+      "text": "Weikendorfer Remise.\nWacholderbestand.\n\nAufn.Meisinger.0kt.1957.\nRöllfilm 4x6,Nr.51.Neg.4+5",
+      "CER": 0.05434782608695652,
+      "WER": 0.8
+    },
+    "color_psm6": {
+      "text": "Weikendorfer Remise.\n\nWacholderbestand.\nAufn.Meisinger.0kt.1957.\nRöllfilm 4x6,Nr.51.Neg.4+5",
+      "CER": 0.05434782608695652,
+      "WER": 0.8
+    },
+    "color_psm11": {
+      "text": "Weikendorfer Remise.\n\nWacholderbestand.\n\nAufn.Meisinger.0kt.1957.\n\nRöllfilm 4x6,Nr.51.Neg.4+5",
+      "CER": 0.07608695652173914,
+      "WER": 1.0
+    },
+    "otsu_psm3": {
+      "text": "Weikendorfer Remise,\nWacholderbestand,.\n\nAufn.Meisinger.0Okt.1957.\nRallfilm 4x6,Nr.51.Neg.4+5",
+      "CER": 0.06521739130434782,
+      "WER": 0.8
+    },
+    "otsu_psm6": {
+      "text": "Weikendorfer Remise,\nWacholderbestand.\nAufn.Meisinger.0Okt.1957.\nRallfilm 4x6,Nr.51.Neg.4+5",
+      "CER": 0.043478260869565216,
+      "WER": 0.8
+    },
+    "otsu_psm11": {
+      "text": "Weikendorfer Remise,\n\nWacholderbestand,.\n\nAufn.Meisinger.0Okt.1957.\n\nRallfilm 4x6,Nr.51.Neg.4+5",
+      "CER": 0.08695652173913043,
+      "WER": 1.0
+    },
+    "sauvola_psm3": {
+      "text": "Weikendorfer Nemise,\nWacholdlerbestand.\n\nAufn .Meisinger.0kt.1957.\nRöllfilm Ax6,Nr.51.Neg.4+5",
+      "CER": 0.10869565217391304,
+      "WER": 0.8
+    },
+    "sauvola_psm6": {
+      "text": "Weikendorfer Nemise,\nWacholälerbestand.\nAufn .Meisinger.0kt.1957.\nRöllfilm Ax6,Nr.51.Neg.4+5",
+      "CER": 0.10869565217391304,
+      "WER": 0.8
+    },
+    "sauvola_psm11": {
+      "text": "Weikendorfer Nemise,\n\nWacholdlerbestand.\n\nAufn.Keisinger.0kt.1957,\n\nRöllfilm Ax6,Nr.51.Neg.4+5",
+      "CER": 0.14130434782608695,
+      "WER": 1.0
+    }
+  },
+  "0027_ImageFile_{55A7DE5C-B366-4073-B27F-17A1278D5013}16_crop2.png": {
+    "color_psm3": {
+      "text": "Lassee\nFlugerdeverwehungen\n\nAufn.Meisinger\nRollfilm 4x6,N.Sch.K.258",
+      "CER": 0.029850746268656716,
+      "WER": 1.0
+    },
+    "color_psm6": {
+      "text": "Lassee\nFlugerdeverwehungen\nAufn.Meisinger\n\nRollfilm 4x6,N.Sch.K.258",
+      "CER": 0.029850746268656716,
+      "WER": 1.0
+    },
+    "color_psm11": {
+      "text": "Lassee\n\nFlugerdeverwehungen\n\nAufn.Meisinger\n\nRollfilm 4x6,N.Sch.K.258",
+      "CER": 0.05970149253731343,
+      "WER": 1.6666666666666667
+    },
+    "otsu_psm3": {
+      "text": "Lassee\nFlugerdeverwehungen\n\nAufn.Meisinger\nRollfilm 4x6,N.Sch.K.258",
+      "CER": 0.029850746268656716,
+      "WER": 1.0
+    },
+    "otsu_psm6": {
+      "text": "Lassee\nFlugerdeverwehungen\nAufn.Neis inger\n\nRollfilm 4x6,N.Sch.K.258",
+      "CER": 0.05970149253731343,
+      "WER": 1.3333333333333333
+    },
+    "otsu_psm11": {
+      "text": "Lassee\n\nFlugerdeverwehungen\n\nAufn.Meisinger\n\nRollfilm 4x6,N.Sch.K.258",
+      "CER": 0.05970149253731343,
+      "WER": 1.6666666666666667
+    },
+    "sauvola_psm3": {
+      "text": "Lassee\nFlugerdeverwehungen\n\ntufn. Meisinger\nRollfilm 4x6,N.Sch.K.258",
+      "CER": 0.05970149253731343,
+      "WER": 1.3333333333333333
+    },
+    "sauvola_psm6": {
+      "text": "Lassee\nFlugerdeverwehungen\nKufn.Meisinger\n\nRollfilm 4x6,N.Sch.K.258",
+      "CER": 0.04477611940298507,
+      "WER": 1.0
+    },
+    "sauvola_psm11": {
+      "text": "Lassee\n\nFlugerdeverwehungen\n\ntufn. Meisinger\n\nRollfilm 4x6,N.Sch.K.258",
+      "CER": 0.08955223880597014,
+      "WER": 2.0
+    }
+  },
+  "0028_ImageFile_{64E2BC4A-B550-4010-9E01-8205C5CA43BB}15_crop1.png": {
+    "color_psm3": {
+      "text": "Windschutzpflänzung .\nan d.Bundesstrasse bei\nPlankenberg\n\nAufn.Dr.lachura 1949 |\nFilm Nr. 23,Neg.iü/ ;",
+      "CER": 0.14583333333333334,
+      "WER": 1.0
+    },
+    "color_psm6": {
+      "text": "Windschutzpflänzung 5%\nan d.Bundesstrasse bei\nPlankenberg N\nAufn.Dr.lachura 1949 -\nFilm Nr.23,Neg.10./ —",
+      "CER": 0.16666666666666666,
+      "WER": 1.0
+    },
+    "color_psm11": {
+      "text": "Windschutzpflanzung\n\nan d.Bundesstrasse bei\n\nPlankenbe 27\n\nm\n\nAufn,Dr.lachura 1949\n\nFilm Nr.23,Neg.10 / -",
+      "CER": 0.19791666666666666,
+      "WER": 1.5
+    },
+    "otsu_psm3": {
+      "text": "Windschutzpflänzung |\nan d.Bundesstrasse bei\nPlankenberg\n\nAufn,Dr.lachura 1949\nFilm Nr.23,Neg.10 / -",
+      "CER": 0.13541666666666666,
+      "WER": 1.0
+    },
+    "otsu_psm6": {
+      "text": "Windschutzpflänzung |\nan d.Bundesstrasse bei\nPlankenberg ..\nAufn,Dr.lachura 1949\nFilm Nr.23,Neg.10 / -",
+      "CER": 0.15625,
+      "WER": 1.0
+    },
+    "otsu_psm11": {
+      "text": "Windschutzpflanzung\n\nan d.Bundesstrasse bei\n\nPlankenberg\n\nAufn.Dr.liachura 1949\n\nFilm Nr.23,Neg.10 / -",
+      "CER": 0.125,
+      "WER": 1.25
+    },
+    "sauvola_psm3": {
+      "text": "“Yindschutzpflänzung\nan d.Bundesstrasse bei\n_Plankenberg\n\nAufn,Dr.Liachura 1949\nFilm Nr.23,Neg.10 /",
+      "CER": 0.125,
+      "WER": 0.75
+    },
+    "sauvola_psm6": {
+      "text": "Yindschutzpflänzung\nan d.Bundesstrasse bei\nPlenkenberg Bu\nAufn,Dr.Liachura 1949\nFilm Nr.23,Neg.10 /",
+      "CER": 0.13541666666666666,
+      "WER": 0.75
+    },
+    "sauvola_psm11": {
+      "text": "\"indschutzpflänzung\n\nan d.Bundesstrasse bei\n\nPlenkenberg\n\nAufn,Dr.Liachura 1949\n\nFilm Nr.23,Neg.10 /",
+      "CER": 0.14583333333333334,
+      "WER": 1.125
+    }
+  },
+  "0029_ImageFile_{85AC5CD8-268B-4309-A593-144C89D7FA63}17_crop2.png": {
+    "color_psm3": {
+      "text": "Hirschwang,Gemeinde Tien i\nHolzsägewerk\n\nAufx,.Meisinger 1954.\nLeieafilm Nr.60,lNeg.Nr.19,20,",
+      "CER": 0.14893617021276595,
+      "WER": 1.0
+    },
+    "color_psm6": {
+      "text": "Hirschwang,Gemeinde Tien i\nHolzsägewerk\n\nAufa.Neisinger 1954.\nLeieafilm Nr.60,lNeg.Nr.19,20,",
+      "CER": 0.14893617021276595,
+      "WER": 1.0
+    },
+    "color_psm11": {
+      "text": "Hirschwang,Gemeinde fien\n\nHolzsägewerk\n\nAufx,.Meisinger 1954.\n\nLeieafilm Nr.60,lNeg.Nr.19,20,",
+      "CER": 0.14893617021276595,
+      "WER": 1.0
+    },
+    "otsu_psm3": {
+      "text": "Hirschwang, Gemeinde hien\nHlolzsägewerk\n\nAufa.lMeisinzer 1954.\nLeieafilm Nr.60,lNeg.Nr.19,20,",
+      "CER": 0.1276595744680851,
+      "WER": 0.8
+    },
+    "otsu_psm6": {
+      "text": "Hirschwang, Gemeinde hien\nHlolzsägewerk\n\nAufa.lMeisinzer 1954.\nLeieafilm Nr.60,lNeg.Nr.19,20,",
+      "CER": 0.1276595744680851,
+      "WER": 0.8
+    },
+    "otsu_psm11": {
+      "text": "Hirschwang, Gemeinde hien\n\nHlolzsägewerk\n\nAuf\n\nRei\n\n37\n\neisinger 1954.\n\nLeieafilm Nr.60,lNeg.Nr.19,20,",
+      "CER": 0.23404255319148937,
+      "WER": 0.9
+    },
+    "sauvola_psm3": {
+      "text": "liirschvang,Gemeinde \\ien\nillolzsäsewerk\n\nAufn WMeisinzer 1954.\n\nLeiexfilm Nr.60,leg.1r.19,20,",
+      "CER": 0.24468085106382978,
+      "WER": 1.0
+    },
+    "sauvola_psm6": {
+      "text": "liirschvang,Gemeinde \\ien\nillolzsäsewerk\n\nAufn, Neisinzer 1954.\nLeiexfilm Nr.60,leg.1r.19,20,",
+      "CER": 0.23404255319148937,
+      "WER": 1.0
+    },
+    "sauvola_psm11": {
+      "text": "liirschvang,Gemeinde jiien\n\nwu\n\nun\n\nrk\n\nllolzsäre\n\nAuf\n\nPrey\n\n.\n\n=\n\n!eisiy\n\nr\n\nEr\n\nwen\n\nr 1954.\n\nLeieufilm Ir.60,:e\n\n-\n\nr\n\n.1r.19,20,",
+      "CER": 0.7659574468085106,
+      "WER": 2.1
+    }
+  },
+  "0030_ImageFile_{280AB8CF-4766-4E21-850C-E8D49A85B9EC}12_crop2.png": {
+    "color_psm3": {
+      "text": "Gr.Riedenthäl\nmit \"Neun Nauna\" und\nMarterl.\n\nAufn.kMeisinger 1956.\nRollfilm Nr.39,Neg.Nr.10/,9,",
+      "CER": 0.06382978723404255,
+      "WER": 0.75
+    },
+    "color_psm6": {
+      "text": "Gr.Riedenthäl\n\nmit \"Neun Nauna\" und\nMarterl. ’\nAufn.kMeisinger 1956.\nRollfilm Nr.39,Neg.Nr.10/,9,",
+      "CER": 0.0851063829787234,
+      "WER": 0.875
+    },
+    "color_psm11": {
+      "text": "Gr.Riedenthäl\n\nmit \"Neun Nauna\" und\n\nMarterl.\n\nAufn.kMeisinger 1956.\n\nRollfilm Nr.39,Neg.Nr.10,9,",
+      "CER": 0.0851063829787234,
+      "WER": 1.125
+    },
+    "otsu_psm3": {
+      "text": "Gr.Riedehbhäl\nmit \"Neun Nauna\" und\nMarterl.\n\nAufn.Neisinger 1956.\nRollfilm Nr.39,Neg.Nr.10/,9,",
+      "CER": 0.09574468085106383,
+      "WER": 0.75
+    },
+    "otsu_psm6": {
+      "text": "Gr.Riedehkhäl\n\nmit \"Neun Wauna\" und\nMarterl.\n\nAufn.Neisinger 1956.\nRollfilm Nr.39,Neg.Nr.10/,9,",
+      "CER": 0.10638297872340426,
+      "WER": 0.875
+    },
+    "otsu_psm11": {
+      "text": "Gr.Riedenthäl\n\nmit\n\n\"Neun Nauna\" und\n\nMarterl.\n\nAufn.Neisinger 1956.\n\nRollfilm Nr.39,Neg.Nr.10/,9,",
+      "CER": 0.1276595744680851,
+      "WER": 1.125
+    },
+    "sauvola_psm3": {
+      "text": "Gr.Riedehthäl\n\nmit \"Neun Launa\" und\nWarterl.\n\nAufn.kKeisinger 1956.\nRollfilm Nr.39,Neg.Nr.10/,9,",
+      "CER": 0.10638297872340426,
+      "WER": 0.875
+    },
+    "sauvola_psm6": {
+      "text": "Gr.Riedehthäl\n\nmit \"Neun Launa\" und\nWarterl.\nAufn.kKeisinger 1956.\nRollfilm Nr.39,Neg.Nr.10/,9,",
+      "CER": 0.09574468085106383,
+      "WER": 0.875
+    },
+    "sauvola_psm11": {
+      "text": "Gr.Riedenthäl\n\nmit\n\n\"Neun LWauna\" und\n\nYMarterl.\n\nAufn.kKeisinger 1956.\n\nRollfilm Nr.39,Neg.Nr.10/,9,",
+      "CER": 0.14893617021276595,
+      "WER": 1.125
+    }
+  },
+  "0031_ImageFile_{280AB8CF-4766-4E21-850C-E8D49A85B9EC}14_crop2.png": {
+    "color_psm3": {
+      "text": "Gr.Siegharts -\n2x 1.Linde, Naturdewkmal..\n\nAufn. Neisinger, Dez.1958,\nRollfilm 4x6,Nr. 63/14 u.15",
+      "CER": 0.14285714285714285,
+      "WER": 1.2857142857142858
+    },
+    "color_psm6": {
+      "text": "Gr.Siegharts -\n\n2x 1.Linde,Naturdenkmal.\nAufn.Heisinger,Dez.1958,\nRollfilm 4x6,Nr.63/14 u.15",
+      "CER": 0.0989010989010989,
+      "WER": 1.0
+    },
+    "color_psm11": {
+      "text": "Gr.Siegharts -\n\n2x 1.Linde, Naturdewkmal..\n\nAufn. Neisinger, Dez.1958,\n\nRollfilm 4x6,Nr. 63/14 u.15",
+      "CER": 0.16483516483516483,
+      "WER": 1.5714285714285714
+    },
+    "otsu_psm3": {
+      "text": "Gr.Siegharts .\n2x 1.Linde,Naturdenkmal.\n\nAufn.Heisinger,Dez.1958,\nRollfilm 4x6,Nr.63/14 u.15",
+      "CER": 0.0989010989010989,
+      "WER": 1.0
+    },
+    "otsu_psm6": {
+      "text": "Gr.Siegharts .\n\n2x 1.Linde,Naturdenkmal.\nAufn.Heisinger,Dez.1958,\nRollfilm 4x6,Nr.63/14 u.15",
+      "CER": 0.0989010989010989,
+      "WER": 1.0
+    },
+    "otsu_psm11": {
+      "text": "Gr.Siegharts\n\n2x 1.Linde,Naturdenkmal.\n\nAufn.Heisinger,Dez.1958,\n\nRollfilm 4x6,Nr.63/14 u.15",
+      "CER": 0.0989010989010989,
+      "WER": 1.0
+    },
+    "sauvola_psm3": {
+      "text": "Gr.Siegharts -\n2x 1.Linde,Naturdenkmal.\n\nAufn.Meisinger,Dez.1958;\nRollfilm 4x6,Nr.63/14 u.15",
+      "CER": 0.08791208791208792,
+      "WER": 1.0
+    },
+    "sauvola_psm6": {
+      "text": "Gr.Siegharts -\n\n2x 1.Linde,Naturdenkmal.\nAufn.Meisinger,Dez.1958;\nRollfilm 4x6,Nr.63/14 u.15",
+      "CER": 0.08791208791208792,
+      "WER": 1.0
+    },
+    "sauvola_psm11": {
+      "text": "Gr.Siegharts\n\n2x 1.Linde,Naturdenkmal.\n\nAufn.Meisinger,Dez.1958;\n\nRollfilm 4x6,Nr.63/14 u.15",
+      "CER": 0.08791208791208792,
+      "WER": 1.0
+    }
+  },
+  "0032_ImageFile_{280AB8CF-4766-4E21-850C-E8D49A85B9EC}21_crop2.png": {
+    "color_psm3": {
+      "text": "Grünbach a.Schneeberg\n\n.6 Koglbauernföhren\nAufn.Meisinger 1955.\nLeicafilm Nr.69,Neg.Nr. 5 u. 4.",
+      "CER": 0.0851063829787234,
+      "WER": 0.8888888888888888
+    },
+    "color_psm6": {
+      "text": "Grünbach a.Schneeberg\n\n.6 Koglbauernföhren\nAufn.Meisinger 1955. :\nLeicafilm Nr.69,Neg.Nr.3 u.4.",
+      "CER": 0.07446808510638298,
+      "WER": 0.7777777777777778
+    },
+    "color_psm11": {
+      "text": "Grünbach a.Schneeberg\n\n6 Koglbauernföhren\n\nAufn.Meisinger 1955.\n\nLeicafilm Nr.69,Neg.Nr. 5 u. 4.",
+      "CER": 0.09574468085106383,
+      "WER": 1.1111111111111112
+    },
+    "otsu_psm3": {
+      "text": "Grünbach a.Schneeberg\n\n.6 Koglbauernföhren\nAufn.Meisinger 1955.\nLeicafilm Nr.69,Neg.Nr.3 u.4,.",
+      "CER": 0.06382978723404255,
+      "WER": 0.7777777777777778
+    },
+    "otsu_psm6": {
+      "text": "Grünbach a.Schneeberg\n\n.6 Koglbauernföhren\nAufn.Meisinger 1955.\nLeicafilm Nr.69,Neg.Nr.3 u.4,.",
+      "CER": 0.06382978723404255,
+      "WER": 0.7777777777777778
+    },
+    "otsu_psm11": {
+      "text": "Grünbach a.Schneeberg\n\n.6 Koglbauernföhren\n\nAufn.Meisinger 1955.\n\nLeicafilm Nr.69,Neg.Nr.3 u.4.",
+      "CER": 0.07446808510638298,
+      "WER": 0.7777777777777778
+    },
+    "sauvola_psm3": {
+      "text": "Grünbach a.Schneeberg\n\n.6 Koglbauernföhren\nAufn.Meisinger 1955.\nLeicafilm Nr.69,Neg.Nr. su. 4.",
+      "CER": 0.0851063829787234,
+      "WER": 0.7777777777777778
+    },
+    "sauvola_psm6": {
+      "text": "Grünbach a.Schneeberg\n\n.6 Koglbauernföhren\nAufn.Meisinger 1955.\nLeicafilm Nr.69,Neg.Nr. 5 u.",
+      "CER": 0.09574468085106383,
+      "WER": 0.7777777777777778
+    },
+    "sauvola_psm11": {
+      "text": "Grünbach a.Schneeberg\n\n6 Koglbauernföhren\n\nAufn.Meisinger 1955.\n\nLeicafilm Nr.69,Neg.Nr. su. 4.",
+      "CER": 0.09574468085106383,
+      "WER": 1.0
+    }
+  },
+  "0033_ImageFile_{308E68C7-E352-4129-B3EC-78D3D20F1EA5}12_crop2.png": {
+    "color_psm3": {
+      "text": "Verölung des Mühlbaches\nbei Drösüng 1948\n\nAufn,Dr.Machura -\nFilm Nr.15,Neg.30,31.",
+      "CER": 0.1111111111111111,
+      "WER": 0.625
+    },
+    "color_psm6": {
+      "text": "Verölung des Mühlbaches\nbei Drösüng 1948\nAufn,Dr.Machura -\nFilm Nr.,15,Neg.30,51.",
+      "CER": 0.1111111111111111,
+      "WER": 0.625
+    },
+    "color_psm11": {
+      "text": "Verölung des Mihlbaches\n\nbei Drösüng\n\n1948\n\nAufn.Dr.Machura\n\nFilm Nr.,15,Neg.30,51.",
+      "CER": 0.12345679012345678,
+      "WER": 0.875
+    },
+    "otsu_psm3": {
+      "text": "Verölung des Mühlbaches\nbei Drösäng 1948\n\nAufn,Dr.Machura\nFilm Nr.15,Neg.30,31.",
+      "CER": 0.08641975308641975,
+      "WER": 0.625
+    },
+    "otsu_psm6": {
+      "text": "Verölung des Mühlbaches\nbei Drösäng 1948\nAufn.Dr.Machura\n\nFilm Nr.15,Neg.30,31.",
+      "CER": 0.07407407407407407,
+      "WER": 0.625
+    },
+    "otsu_psm11": {
+      "text": "Verölung des Mühlbaches\n\nbei Drösäng\n\n1948\n\nAufn.Dr.Machura\n\nFilm Nr.15,Neg.30,31.",
+      "CER": 0.09876543209876543,
+      "WER": 0.875
+    },
+    "sauvola_psm3": {
+      "text": "Verölung des kühlbaches\nbei Drösang 1948\n\nAufn,Dr.lachura\nFilm Nr.15,Neg.30,31.",
+      "CER": 0.1111111111111111,
+      "WER": 0.75
+    },
+    "sauvola_psm6": {
+      "text": "Verölung des kühlbaches\nbei Drösang 1948\nAufn,Dr.lachura\n\nFilm Nr.15,Neg.30,31.",
+      "CER": 0.1111111111111111,
+      "WER": 0.75
+    },
+    "sauvola_psm11": {
+      "text": "Verölung des kühlbaches\n\nbei Drösang\n\n1948\n\nAufn,Dr.lachura\n\nFilm Nr.15,Neg.30,31.",
+      "CER": 0.13580246913580246,
+      "WER": 0.875
+    }
+  },
+  "0034_ImageFile_{342E8B28-CA6A-4A38-AC1F-A3FD245DE449}4_crop2.png": {
+    "color_psm3": {
+      "text": "Narchauen bei Marchegg\n\nHMartımna\n\nHochwasser,Blick v.Schloß\n\n(Neg.1090,1091 - 9x12)",
+      "CER": 0.15476190476190477,
+      "WER": 0.75
+    },
+    "color_psm6": {
+      "text": "Marchauen bei Marche\nHochwasser,Blick v.Schloß\n(Neg.1090,1091 - 9x12)",
+      "CER": 0.17857142857142858,
+      "WER": 0.375
+    },
+    "color_psm11": {
+      "text": "Narchauen bei Marchegg\n\nIH Martruma\n\nHochwasser,Blick v.Schloß\n\n(Neg.1090,1091 - 9x12)",
+      "CER": 0.13095238095238096,
+      "WER": 0.875
+    },
+    "otsu_psm3": {
+      "text": "Marchauen bei Narchegs\n\nHr Marbeuna\n\nHochwasser, Blick v.Schloß\n\n(Neg.1090,1091 - 9x12)",
+      "CER": 0.13095238095238096,
+      "WER": 0.75
+    },
+    "otsu_psm6": {
+      "text": "Marchauen bei Narche\nHochwasser, Blick v.Schloß\n(Neg.1090,1091 - 9x12)",
+      "CER": 0.17857142857142858,
+      "WER": 0.25
+    },
+    "otsu_psm11": {
+      "text": "Marchauen bei Narchegs\n\nIH Marta\n\nHochwasser, Blick v.Schloß\n\n(Neg.1090,1091 - 9x12)",
+      "CER": 0.13095238095238096,
+      "WER": 0.75
+    },
+    "sauvola_psm3": {
+      "text": "Narchauen bei Narchegsg\n\nMarla\n\nHochwasser,Blick v.Schloß\n\n(Neg.1090,1091 - 9x12)",
+      "CER": 0.16666666666666666,
+      "WER": 0.75
+    },
+    "sauvola_psm6": {
+      "text": "Marchauen bei Narchegg\nMarten\n\nHochwasser,Blick v.Schloß\n\n(Neg.1090,1091 - 9x12)",
+      "CER": 0.14285714285714285,
+      "WER": 0.5
+    },
+    "sauvola_psm11": {
+      "text": "Narchauen bei Narchegsg\n\nIH Marta\n\nHochwasser,Blick v.Schloß\n\n(Neg.1090,1091 - 9x12)",
+      "CER": 0.15476190476190477,
+      "WER": 0.875
+    }
+  },
+  "0035_ImageFile_{684FBD74-8BF6-4CFE-9B8F-F393B72188C8}5_crop2.png": {
+    "color_psm3": {
+      "text": "Steinbruch in\nDeutsch-Altenburg\n\nAufn.Dr.Machura 1948\n-Film Nr,24,Neg.i1 u.3",
+      "CER": 0.1038961038961039,
+      "WER": 0.8571428571428571
+    },
+    "color_psm6": {
+      "text": "Steinbruch in :\n\nDeut sch-Altenburg\nAufn.Dr.Machura 1948\n-Film Nr,24,Neg.i1 u.3",
+      "CER": 0.14285714285714285,
+      "WER": 1.0
+    },
+    "color_psm11": {
+      "text": "Steinbruch in\n\nDeutsch-Altenburg\n\nAufn.Dr NMachura 1948\n\nFilm Nr.24,Neg.i1 u.3",
+      "CER": 0.11688311688311688,
+      "WER": 1.1428571428571428
+    },
+    "otsu_psm3": {
+      "text": "Steinbruch in\nDeutsch-Altenburg\n\nAufn.Dr.Nachura 1948\n-Film Nr.24,Neg.1 u.3",
+      "CER": 0.09090909090909091,
+      "WER": 0.7142857142857143
+    },
+    "otsu_psm6": {
+      "text": "Steinbruch in\n\nDeutsch-Altenburg\nAufn.Dr.Nachura 1948\n-Film Nr.24,Neg.1 u.3",
+      "CER": 0.09090909090909091,
+      "WER": 0.7142857142857143
+    },
+    "otsu_psm11": {
+      "text": "Steinbruch in\n\nDeutsch-Altenburg\n\nAufn.Dr.Nachura 1948\n\nFilm Nr.24,Neg.i u.3",
+      "CER": 0.11688311688311688,
+      "WER": 1.0
+    },
+    "sauvola_psm3": {
+      "text": "Steinbruch in\nDeutsch-Altenburg\n\nAufn.Dr.Nachura 1948\n‚Film Nr.24,Neg.1 u.3",
+      "CER": 0.09090909090909091,
+      "WER": 0.7142857142857143
+    },
+    "sauvola_psm6": {
+      "text": "Steinbruch in\n\nDeutsch-Altenburg\n\nAufn.Dr.Nachura 1948\n‚Film Nr.24,Neg.1 u.3",
+      "CER": 0.1038961038961039,
+      "WER": 0.7142857142857143
+    },
+    "sauvola_psm11": {
+      "text": "Steinbruch in\n\nDeutsch-Altenburg\n\nAufn.Dr.Nachura 1948\n\nFilm Nr.24,Neg.l u.3",
+      "CER": 0.11688311688311688,
+      "WER": 1.0
+    }
+  },
+  "0036_ImageFile_{684FBD74-8BF6-4CFE-9B8F-F393B72188C8}20_crop2.png": {
+    "color_psm3": {
+      "text": "Schottergrube bei\n‚Gänserndorf im Narchfeld\n\nAufn.Dr.Nachura 1948\nFilm Nr.15, Neg.21 u,22,",
+      "CER": 0.10869565217391304,
+      "WER": 0.6666666666666666
+    },
+    "color_psm6": {
+      "text": "Schottergrube bei\n\n‚Gänserndorf im Narchfeld\nAufn,.Dr.Nachura 198\nFilm Nr.15, Neg.21 u,22..",
+      "CER": 0.13043478260869565,
+      "WER": 0.8333333333333334
+    },
+    "color_psm11": {
+      "text": "Schottergrube bei\n\nGänserndorf im Narchfeld\n\nAufn.Dr.Nachura 1948\n\nFilm Nr.15, Neg.21 u,22,",
+      "CER": 0.11956521739130435,
+      "WER": 0.8333333333333334
+    },
+    "otsu_psm3": {
+      "text": "Schottergrube bei\nGänserndorf im Narchfeld\n\nAufn,Dr.Nachura 1948\nFilm Nr.15, Neg.21 u.22,",
+      "CER": 0.09782608695652174,
+      "WER": 0.5833333333333334
+    },
+    "otsu_psm6": {
+      "text": "Schottergrube bei\nGänserndorf im Narchfeld\nAufn.Dr.Nachura 1948\nFilm Nr.15, Neg.21 u.22.",
+      "CER": 0.06521739130434782,
+      "WER": 0.5833333333333334
+    },
+    "otsu_psm11": {
+      "text": "Schottergrube bei\n\nGänserndorf im Marchfeld\n\nAufn,Dr.Nachura 1948\n\nFilm Nr.15, Neg.21 u.22,",
+      "CER": 0.10869565217391304,
+      "WER": 0.8333333333333334
+    },
+    "sauvola_psm3": {
+      "text": "Schottergrube bei\nGänserndorf im Narchfela\n\nAufn, Dr.liachura 1948\nFilm Nr.15, Neg.21 u.22,",
+      "CER": 0.09782608695652174,
+      "WER": 0.5833333333333334
+    },
+    "sauvola_psm6": {
+      "text": "Schottergrube bei\nGänserndorf im Narchfela\nAufn, Dr.liachura 1948\nFilm Nr.15, Neg.21 u.22.",
+      "CER": 0.07608695652173914,
+      "WER": 0.5833333333333334
+    },
+    "sauvola_psm11": {
+      "text": "Schottergrube bei\n\nGänserndorf im larchfela\n\nAufn, Dr.liachura 1948\n\nFilm Nr.15, Neg.21 u.22,",
+      "CER": 0.11956521739130435,
+      "WER": 0.9166666666666666
+    }
+  },
+  "0037_ImageFile_{56463EA0-BFE2-49EE-BBED-D5DCA7A94765}18_crop2.png": {
+    "color_psm3": {
+      "text": "Schloß Meinzierl (Gresten)\nThuje u.gedeckter Gang\nAufn.Meisinger,März 1960.\nRollfilm 4x6,Nr.84/7+8",
+      "CER": 0.049019607843137254,
+      "WER": 0.7272727272727273
+    },
+    "color_psm6": {
+      "text": "Schloß Meinzierl (Gresten)\nThuje u.gedeckter Gang\nAufn.Meisinger,März 1960.\nRollfilm 4x6,Nr.84/7+8",
+      "CER": 0.049019607843137254,
+      "WER": 0.7272727272727273
+    },
+    "color_psm11": {
+      "text": "Schloß Meinzierl (Gresten)\n\nThuje u.gedeckter Gang\n\nAufn.Meisinger,März 1960.\n\nRollfilm 4x6,Nr.84/748",
+      "CER": 0.08823529411764706,
+      "WER": 0.9090909090909091
+    },
+    "otsu_psm3": {
+      "text": "Schloß Beinzierl (Gresten)\nThuje u.gedeckter Gang\nAufn.Meisinger,März 1960.\nRollfilm 4x6,Nr.84/748",
+      "CER": 0.058823529411764705,
+      "WER": 0.7272727272727273
+    },
+    "otsu_psm6": {
+      "text": "Schloß Beinzierl (Gresten)\nThuje u.gedeckter Gang\nAufn.Meisinger,März 1960.\nRollfilm 4x6,Nr.84/748",
+      "CER": 0.058823529411764705,
+      "WER": 0.7272727272727273
+    },
+    "otsu_psm11": {
+      "text": "Schloß Beinzierl (Gresten)\n\nThuje u.gedeckter Gang\n\nAufn.Meisinger,März 1960.\n\nRollfilm 4x6,Nr.84/78",
+      "CER": 0.08823529411764706,
+      "WER": 0.9090909090909091
+    },
+    "sauvola_psm3": {
+      "text": "Schloß Beinzierl (Gresten)\nThuje u.gedeckter Gang\nAufn.Neisinger,März 1960.\nRollfilm 4x6,Nr.84/748",
+      "CER": 0.06862745098039216,
+      "WER": 0.7272727272727273
+    },
+    "sauvola_psm6": {
+      "text": "Schloß Beinzierl (Gresten)\nThuje u.gedeckter Gang\nAufn.Neisinger,März 1960.\nRollfilm 4x6,Nr.84/748",
+      "CER": 0.06862745098039216,
+      "WER": 0.7272727272727273
+    },
+    "sauvola_psm11": {
+      "text": "Schloß Beinzierl (Gresten)\n\nThuje u.gedeckter Gang\n\nAufn.Neisinger,März 1960.\n\nRollfilm 4x6,Nr.84/748",
+      "CER": 0.09803921568627451,
+      "WER": 0.9090909090909091
+    }
+  },
+  "0038_ImageFile_{279326F9-D817-4DC6-9D7E-76C6D62DD6DA}4_crop2.png": {
+    "color_psm3": {
+      "text": "Hagenbachklamm\nAufn.Meisinger,April 1962.\nRollfilm 4x6,Neg.101/7 +6",
+      "CER": 0.029850746268656716,
+      "WER": 0.6
+    },
+    "color_psm6": {
+      "text": "Hagenbachklamm\nAufn.Meisinger,April 1962.\nRollfilm 4x6,Neg.101/7 +6",
+      "CER": 0.029850746268656716,
+      "WER": 0.6
+    },
+    "color_psm11": {
+      "text": "Hagenbachklamm\n\nAufn.Meisinger,April 1962.\n\nRollfilm 4x6,Neg.101/7 +6",
+      "CER": 0.05970149253731343,
+      "WER": 1.2
+    },
+    "otsu_psm3": {
+      "text": "Hagenbachklamm\nAufn.Weisinger,April 1962,\nRollfilm 4x6,Neg.101/7 + 6",
+      "CER": 0.04477611940298507,
+      "WER": 0.4
+    },
+    "otsu_psm6": {
+      "text": "Hagenbachklamm\nAufn.Weisinger,April 1962,\nRollfilm 4x6,Neg.101/7 + 6",
+      "CER": 0.04477611940298507,
+      "WER": 0.4
+    },
+    "otsu_psm11": {
+      "text": "Hagenbachklamm\n\nAufn.Weisinger,April 1962,\n\nRollfilm 4x6,Neg.101/7 + 6",
+      "CER": 0.07462686567164178,
+      "WER": 0.8
+    },
+    "sauvola_psm3": {
+      "text": "Hagenbachklamm\nAufn.Meisinger,April 1962.\nRollfilm 4x6,Neg.101/7 + 6",
+      "CER": 0.014925373134328358,
+      "WER": 0.2
+    },
+    "sauvola_psm6": {
+      "text": "Hagenbachklamm\nAufn.Meisinger,April 1962.\nRollfilm 4x6,Neg.101/7 + 6",
+      "CER": 0.014925373134328358,
+      "WER": 0.2
+    },
+    "sauvola_psm11": {
+      "text": "Hagenbachklamm\n\nAufn.Meisinger,April 1962.\n\nRollfilm 4x6,Neg.101/7 + 6",
+      "CER": 0.04477611940298507,
+      "WER": 0.8
+    }
+  },
+  "0039_ImageFile_{279326F9-D817-4DC6-9D7E-76C6D62DD6DA}5_crop2.png": {
+    "color_psm3": {
+      "text": "Hagenbachklamm unterhalb\nder regul.Strecke.\n\nAufn.Meisinger,April 1962.\nRollfilm 4x6,Neg.101/8 + 9",
+      "CER": 0.050505050505050504,
+      "WER": 0.6
+    },
+    "color_psm6": {
+      "text": "Hagenbachklamm unt erhalb\nder regul.Strecke.\nAufn.Meisinger,April 1962.\nRollfilm 4x6,Neg.101/8 + 9",
+      "CER": 0.050505050505050504,
+      "WER": 0.7
+    },
+    "color_psm11": {
+      "text": "Hagenbachklamm unterhalb\n\nder regul.Strecke.\n\nAufn.Meisinger,April 1962.\n\nRollfilm 4x6,Neg.101/8 + 9",
+      "CER": 0.0707070707070707,
+      "WER": 0.7
+    },
+    "otsu_psm3": {
+      "text": "Hagenbachklamm unterhalb\nder regul.Strecke,\n\nAufn.Meisinger,April 1962\nRollfilm 4x6,Neg.101/8 + 9",
+      "CER": 0.050505050505050504,
+      "WER": 0.5
+    },
+    "otsu_psm6": {
+      "text": "Hagenbachklamm unterhalb\nder regul.Strecke,\nAufn.Meisinger,April 1962\nRollfilm 4x6,Neg.101/8 + 9",
+      "CER": 0.04040404040404041,
+      "WER": 0.5
+    },
+    "otsu_psm11": {
+      "text": "Hagenbachklamm unterhalb\n\nder regul.Strecke,\n\nAufn.Meisinger,April 1962\n\nRollfilm 4x6,Neg.101/8 + 9",
+      "CER": 0.0707070707070707,
+      "WER": 0.7
+    },
+    "sauvola_psm3": {
+      "text": "Hagenbachklamm unterhalb\nder regul.Strecke.\n\nAufn.Meisinger,April 1962\nRollfilm 4x6,Neg.101/8 +9",
+      "CER": 0.050505050505050504,
+      "WER": 0.7
+    },
+    "sauvola_psm6": {
+      "text": "Hagenbachklamm unterhalb\nder regul.Strecke.\nAufn.Meisinger,April 1962\nRollfilm 4x6,Neg.101/8 +9",
+      "CER": 0.04040404040404041,
+      "WER": 0.7
+    },
+    "sauvola_psm11": {
+      "text": "Hagenbachklamm unterhalb\n\nder regul.Strecke.\n\nAufn.Meisinger,April 1962\n\nRollfilm 4x6,Neg.101/8 + 9",
+      "CER": 0.06060606060606061,
+      "WER": 0.7
+    }
+  },
+  "0040_ImageFile_{19270373-75C9-4FB6-8E80-35EBBA26513C}25_crop2.png": {
+    "color_psm3": {
+      "text": "Buchbach-Holzweg,Edelkastanie\nAufn.leisinger 1954 :\nLeicafilm N\\r.60,Neg.Ir.6,7.",
+      "CER": 0.13253012048192772,
+      "WER": 1.0
+    },
+    "color_psm6": {
+      "text": "Buchbach-Holzweg,Edelkastanie\nAufn.leisinger 1954 =\nLeicafilm N\\r.60,Neg.Ir.6,7.",
+      "CER": 0.13253012048192772,
+      "WER": 1.0
+    },
+    "color_psm11": {
+      "text": "Buchbach-Holzweg ‚Edelkastanie\n\nAufn.leisinger 1954\n\nLeicafilm N\\r.60,Neg.Ir.6,7.",
+      "CER": 0.14457831325301204,
+      "WER": 1.0
+    },
+    "otsu_psm3": {
+      "text": "Buchbach-Holzweg,Edelkastanie\nAufn.Lieisinger 1954\n\nLeicafilm \\r.60,Yeg.1r.6,7.",
+      "CER": 0.13253012048192772,
+      "WER": 1.0
+    },
+    "otsu_psm6": {
+      "text": "Buchbach-Holzweg,Edelkastanie\nAufn.Lieisinger 1954\nLeicafilm \\r.60,Yeg.1r.6,7.",
+      "CER": 0.12048192771084337,
+      "WER": 0.8888888888888888
+    },
+    "otsu_psm11": {
+      "text": "Buchbach-Holzweg,Edelkastanie\n\nAufn.Leisinger 1954\n\nLeicafilm \\r.60,Yeg.1r.6,7.",
+      "CER": 0.14457831325301204,
+      "WER": 1.0
+    },
+    "sauvola_psm3": {
+      "text": "Buchbachk\n\n-llolzwog, Edslkastan\n°5\n\näufn.leisinger 1954\n\nLeicafiln\n\nır.60,le2.1r.6,7.",
+      "CER": 0.3132530120481928,
+      "WER": 1.0
+    },
+    "sauvola_psm6": {
+      "text": "Buchbachk-Tolzwog,Edelkastanie\nAufn.leisinger 1954\nLeicafilm !r.60,Ye2.17.6,7.",
+      "CER": 0.18072289156626506,
+      "WER": 0.8888888888888888
+    },
+    "sauvola_psm11": {
+      "text": "Buchbachk-Tiolz:\n\nr\n\n‚ner\n\n%\n\ndelkastanie\n\nYa\n\näufn.leisinger 1954\n\nLeicafilm !r.60,Ye2.17.6,7.",
+      "CER": 0.42168674698795183,
+      "WER": 1.1111111111111112
+    }
+  },
+  "0041_ImageFile_{A35ED0E9-27B4-46C4-9335-F20068139EC2}15_crop2.png": {
+    "color_psm3": {
+      "text": "Gamin g x\n\n3 Linden bei d.“@emeinde\nBuchenallee beim #loster\nAufn.Meisinger 1953",
+      "CER": 0.37272727272727274,
+      "WER": 1.0
+    },
+    "color_psm6": {
+      "text": "Gamin g x\n\n3 Linden bei d.“emeinde\nBuchenallee beim loster\nAufn.Meisinger 1953\nFilm \\r.55,Neg.Nr.17,18,",
+      "CER": 0.17272727272727273,
+      "WER": 1.0
+    },
+    "color_psm11": {
+      "text": "Gamin g\n\n3 Linden bei d.“emeinde\n\nBuchenallee beim äloster\n\nAufn.Meisinger 1953",
+      "CER": 0.37272727272727274,
+      "WER": 0.9166666666666666
+    },
+    "otsu_psm3": {
+      "text": "Gaming\n\n3 Linden bei d.emeinde\nBuchenallee beim #loster\n\nAufn.Meisinger 1953",
+      "CER": 0.35454545454545455,
+      "WER": 0.8333333333333334
+    },
+    "otsu_psm6": {
+      "text": "Gaming\n\n3 Einden bei d. emeinde\nBuchenallee beim Sloster\nAufn.Meisinger 1953\nFilm ür.53,Neg.Nr.17,18,",
+      "CER": 0.13636363636363635,
+      "WER": 0.8333333333333334
+    },
+    "otsu_psm11": {
+      "text": "Gaming\n\n3 Linden bei d.“emeinde\n\nBuchenallee beim #loster\n\nAufn.Meisinger 1953",
+      "CER": 0.36363636363636365,
+      "WER": 0.8333333333333334
+    },
+    "sauvola_psm3": {
+      "text": "Gamin g\n3 Linden bei d.“emeinde\nBuchenallee beim #loster\n\nAufn.Neisinger 1955",
+      "CER": 0.36363636363636365,
+      "WER": 0.8333333333333334
+    },
+    "sauvola_psm6": {
+      "text": "Gamin &\n\n3 Linden bei d.“emeinde\nBuchenallee beim Äloster\nAufn.Keisinger 1953\nFilm ir.553,Neg.Nr.17,18.",
+      "CER": 0.15454545454545454,
+      "WER": 0.9166666666666666
+    },
+    "sauvola_psm11": {
+      "text": "Gamin &\n\n3 Linden bei d.\\emeinde\n\nBuchenallee beim #loster\n\nAufn.Keisinger 1953\n\nfilm ir.53,Neg.Nr.17,18.",
+      "CER": 0.18181818181818182,
+      "WER": 0.9166666666666666
+    }
+  },
+  "0042_ImageFile_{A319DDE0-1C96-4209-827A-797E9978BDD7}22_crop2.png": {
+    "color_psm3": {
+      "text": "Lang Enzersdorf R,\nBaumstümmelung durch Leitung\nAufn.Neisinger,0kt.1959\nRollfilm 4x6,Nr.80/1 u.",
+      "CER": 0.09375,
+      "WER": 0.75
+    },
+    "color_psm6": {
+      "text": "Lang Enzersdorf 24\nBaumstümmelung durch Leitung\nAufn.Neisinger,0kt.1959 7\nRollfilm 4x6,Nr.80/1 u.2.",
+      "CER": 0.09375,
+      "WER": 0.625
+    },
+    "color_psm11": {
+      "text": "Lang Enzersdorf\n\nBaumstümmelung durch Leitung\n\nAufn.Neisinger,0kt.1959\n\nRollfilm 4x6,Nr.80/1 u.2",
+      "CER": 0.08333333333333333,
+      "WER": 0.75
+    },
+    "otsu_psm3": {
+      "text": "Lang Enzersdorf\nBaumstümmelung durch Leitung\nAufn.Neisinger,0kt.1959\nRollfilm 4x6,Nr.80/1 u.2,",
+      "CER": 0.052083333333333336,
+      "WER": 0.5
+    },
+    "otsu_psm6": {
+      "text": "Lang Enzersdorf\nBaumstümmelung durch Leitung\nAufn.Neisinger,0kt.1959 \\\nRollfilm 4x6,Nr.80/1 u.2.",
+      "CER": 0.0625,
+      "WER": 0.375
+    },
+    "otsu_psm11": {
+      "text": "Lang Enzersdorf\n\nBaumstümmelung durch Leitung\n\nAufn.Neisinger,0kt.1959\n\nRollfilm 4x6,Nr.80/1 u.2",
+      "CER": 0.08333333333333333,
+      "WER": 0.75
+    },
+    "sauvola_psm3": {
+      "text": "Lang Enzersdorf\nBaumstümmelung durch leitung\nAufn.Leisinger,0kt.1959\nRollfilm 4x6,Nr.80/1 u.2.",
+      "CER": 0.052083333333333336,
+      "WER": 0.375
+    },
+    "sauvola_psm6": {
+      "text": "Lang Enzersdorf\nBaumstümmelung durch leitung\nAufn.Leisinger,0kt.1959 \\\nRollfilm 4x6,Nr.80/1 u.2.",
+      "CER": 0.07291666666666667,
+      "WER": 0.375
+    },
+    "sauvola_psm11": {
+      "text": "Lang Enzersdorf\n\nBaumstümmelung durch leitung\n\nAufn.Leisinger,0kt.1959\n\nRollfilm 4x6,Nr.80/1 u.2.",
+      "CER": 0.08333333333333333,
+      "WER": 0.625
+    }
+  },
+  "0043_ImageFile_{AF7C1797-5905-4FD2-B0EA-278BF308B40E}5_crop2.png": {
+    "color_psm3": {
+      "text": "Weide am narrischen\n\nArm bei Eckartsau\n\nufn,Dr.Machura 1949\nilm Nr. 12, Neg.Nr.13,14",
+      "CER": 0.08045977011494253,
+      "WER": 0.6666666666666666
+    },
+    "color_psm6": {
+      "text": "Weide amnarrischen\nArm bei Eckartsau\nAufn, Dr.Machura 1949\nilm Nr. 12, Neg.Nr.13,14",
+      "CER": 0.08045977011494253,
+      "WER": 0.6666666666666666
+    },
+    "color_psm11": {
+      "text": "Weideam narrischen\n\nArm bei Eekartsau\n\nufn,Dr.Machura 1949\n\nilm Nr\n\n12, Neg.Nr.13,14",
+      "CER": 0.12643678160919541,
+      "WER": 0.9166666666666666
+    },
+    "otsu_psm3": {
+      "text": "Weide am narrischen\n\nArm bei Eckartsau\n\nufn.Dr.Machura 1949\nilm Nr. 12, Neg.Nr.13,14",
+      "CER": 0.06896551724137931,
+      "WER": 0.6666666666666666
+    },
+    "otsu_psm6": {
+      "text": "Weide am narrischen\nArm bei Eckartsau\nAufn.Dr.Machura 1949\nilm Nr. 12, Neg.Nr.13,14",
+      "CER": 0.04597701149425287,
+      "WER": 0.5
+    },
+    "otsu_psm11": {
+      "text": "Weide am narrischen\n\nArm bei Eckartsau\n\nufn.Dr.Machura 1949\n\nilm Nr. 12, Neg.Nr.13,14",
+      "CER": 0.06896551724137931,
+      "WER": 0.75
+    },
+    "sauvola_psm3": {
+      "text": "Teide am narrischen\nArm bei Eckartsau\n\nAufn,.Dr.Kachura 1949\n“ilm Nr. 12, Neg.Nr.13,14",
+      "CER": 0.09195402298850575,
+      "WER": 0.5833333333333334
+    },
+    "sauvola_psm6": {
+      "text": "Teide am narrischen\nArm bei Eckartsau\nAufn,Dr.Kachura 1949\n“ilm Nr. 12, Neg.Nr.13,14",
+      "CER": 0.08045977011494253,
+      "WER": 0.5833333333333334
+    },
+    "sauvola_psm11": {
+      "text": "Teide am narrischen\n\nArm bei Eckartsau\n\nAufn,.Dr.Kachura 1949\n\nilm Nr. 12, Neg.Nr.13,14",
+      "CER": 0.10344827586206896,
+      "WER": 0.8333333333333334
+    }
+  },
+  "0044_ImageFile_{AF7C1797-5905-4FD2-B0EA-278BF308B40E}6_crop2.png": {
+    "color_psm3": {
+      "text": "Weiden am narrischen\nArm bei Eckartsau.\n\nAufn. Dr.Mächura 1949\nFilm Nr.12,Neg.15,18",
+      "CER": 0.07142857142857142,
+      "WER": 0.5454545454545454
+    },
+    "color_psm6": {
+      "text": "Weiden am narrischen\nArm bei Eckartsau\nAufn. Dr.Mächura 1949\nFilm Nr.12,Neg.15,18",
+      "CER": 0.047619047619047616,
+      "WER": 0.45454545454545453
+    },
+    "color_psm11": {
+      "text": "Weiden am narrischen\n\nArm bei Eckartsau.\n\nAufn. Dr.Mächura 1949\n\nFilm Nr.12,Neg.15,18",
+      "CER": 0.09523809523809523,
+      "WER": 0.8181818181818182
+    },
+    "otsu_psm3": {
+      "text": "Weiden am narrischen\nArm bei Eckartsau\n\nAufn.Dr.Machura 1949\nFilm Nr.12,Neg.15,18",
+      "CER": 0.05952380952380952,
+      "WER": 0.5454545454545454
+    },
+    "otsu_psm6": {
+      "text": "Weiden am narrischen\nArm bei Eckartsau\n\nAufn.Dr.Machura 1949\nFilm Nr.12,Neg.15,18",
+      "CER": 0.05952380952380952,
+      "WER": 0.5454545454545454
+    },
+    "otsu_psm11": {
+      "text": "Weiden am narrischen\n\nArm bei Eckartsau\n\nAufn.Dr.Machura 1949\n\nFilm Nr.12,Neg.15,18",
+      "CER": 0.08333333333333333,
+      "WER": 0.8181818181818182
+    },
+    "sauvola_psm3": {
+      "text": "Weiden am narrischen\nArm bei Eckartsau.\n\nAufn.Dr.Machura 1949\nFilm Nr.12,Neg.15,18",
+      "CER": 0.07142857142857142,
+      "WER": 0.5454545454545454
+    },
+    "sauvola_psm6": {
+      "text": "Weiden am narrischen\nArm bei Eckartsau.\n\nAufn.Dr.Machura 1949\nFilm Nr.12,Neg.15,18",
+      "CER": 0.07142857142857142,
+      "WER": 0.5454545454545454
+    },
+    "sauvola_psm11": {
+      "text": "Weiden am narrischen\n\nArm bei Eckartsau.\n\nAufn.Dr.Machura 1949\n\nFilm Nr.12,Neg.15,18",
+      "CER": 0.09523809523809523,
+      "WER": 0.8181818181818182
+    }
+  },
+  "0045_ImageFile_{AF7C1797-5905-4FD2-B0EA-278BF308B40E}13_crop2.png": {
+    "color_psm3": {
+      "text": "Erlaufboden Stausee\n\nAufnahme Meisinger,Sept.1956\nRollfilm Nr.40/9,u.10.,",
+      "CER": 0.0547945205479452,
+      "WER": 0.8333333333333334
+    },
+    "color_psm6": {
+      "text": "Erlaufboden Stausee\nAufnahme Meisinger,Sept.1956\nRollfilm Nr.40/9,u.10.,",
+      "CER": 0.0410958904109589,
+      "WER": 0.6666666666666666
+    },
+    "color_psm11": {
+      "text": "Erlaufboden Stausee\n\nAufnahme Meisinger,Sept.1956\n\nRollfilm Nr.40/9 u.10.,",
+      "CER": 0.0821917808219178,
+      "WER": 1.0
+    },
+    "otsu_psm3": {
+      "text": "Erlaufboden Stausee\n\nAufnahme Meisinger,Sept.1956\nRollfilm Nr.40/9,u.10.,",
+      "CER": 0.0547945205479452,
+      "WER": 0.8333333333333334
+    },
+    "otsu_psm6": {
+      "text": "Erlaufboden Stausee\nAufnahme Meisinger,Sept.1956\nRollfilm Nr.40/9,u.10.,",
+      "CER": 0.0410958904109589,
+      "WER": 0.6666666666666666
+    },
+    "otsu_psm11": {
+      "text": "Erlaufboden Stausee\n\nAufnahme Meisinger,Sept.1956\n\nRollfilm Nr.40/9 u.10.,",
+      "CER": 0.0821917808219178,
+      "WER": 1.0
+    },
+    "sauvola_psm3": {
+      "text": "Erlaufboden Stausee\n\nAufnshme Meisinger,Sept.1956\nRollfilm Nr.40/9 ,u.10.,",
+      "CER": 0.0821917808219178,
+      "WER": 0.8333333333333334
+    },
+    "sauvola_psm6": {
+      "text": "Erlaufboden Stausee\nAufnshme Meisinger,Sept.1956\nRollfilm Nr.40/9 ,u.10.,",
+      "CER": 0.0684931506849315,
+      "WER": 0.8333333333333334
+    },
+    "sauvola_psm11": {
+      "text": "Erlaufboden Stausee\n\nAufnshme Meisinger,Sept.1956\n\nRollfilm Nr.40/9 ,u.10.,",
+      "CER": 0.0958904109589041,
+      "WER": 1.0
+    }
+  },
+  "0046_ImageFile_{C8C58431-094F-4B7A-A3FF-48F014DE535A}1_crop2.png": {
+    "color_psm3": {
+      "text": "Lilienfeld-Klosteralm\n2 Tannen\n\nAufn.Meisinger, Mai 1957.",
+      "CER": 0.367816091954023,
+      "WER": 0.75
+    },
+    "color_psm6": {
+      "text": "Lilienfeld-Klosteralm\n2 Tannen\nAufn.Meisinger, Mai 1957.",
+      "CER": 0.3563218390804598,
+      "WER": 0.75
+    },
+    "color_psm11": {
+      "text": "Lilienfeld-Klosteralm\n\n2 Tannen\n\nAufn.Meisinger, Mai 1957.",
+      "CER": 0.3793103448275862,
+      "WER": 1.0
+    },
+    "otsu_psm3": {
+      "text": "Lilienfeld-Klosteralm\n2 Tannen\n\nAufn.Meisinger, Mai 1957,",
+      "CER": 0.367816091954023,
+      "WER": 0.75
+    },
+    "otsu_psm6": {
+      "text": "Lilienfeld-Klosteralm\n2 Tannen\nAufn.Meisinger, Mai 1957,",
+      "CER": 0.3563218390804598,
+      "WER": 0.75
+    },
+    "otsu_psm11": {
+      "text": "Lilienfeld-Klosteralm\n\n2 Tannen\n\nAufn.Meisinger, Mai 1957,",
+      "CER": 0.3793103448275862,
+      "WER": 1.0
+    },
+    "sauvola_psm3": {
+      "text": "Lilienfeld-Klosteralm\n2 Tannen\n\nAufn.Meisinger, Mai 1957.",
+      "CER": 0.367816091954023,
+      "WER": 0.75
+    },
+    "sauvola_psm6": {
+      "text": "Lilienfeld-Klosteralm\n2 Tannen\nAufn.Meisinger, Mai 1957.",
+      "CER": 0.3563218390804598,
+      "WER": 0.75
+    },
+    "sauvola_psm11": {
+      "text": "Lilienfeld-Klosteralm\n\n2 Tannen\n\nAufn.Meisinger, Mai 1957.",
+      "CER": 0.3793103448275862,
+      "WER": 1.0
+    }
+  },
+  "0047_ImageFile_{C8C58431-094F-4B7A-A3FF-48F014DE535A}2_crop2.png": {
+    "color_psm3": {
+      "text": "Hilienfeld-Klosteralm\n1 Fichte,Naturdenkmal\n\nAufn.Meisinger,Mai 1957,\n1 Rollfilm 4x6,Neg.Nr.47/ 3+4.,",
+      "CER": 0.09,
+      "WER": 0.75
+    },
+    "color_psm6": {
+      "text": "Hilienfeld-Klosteralm\n\n1 Fichte,Naturdenkmal\nAufn.Meisinger,Mai 1957,\n\n1 Rollfilm 4x6,Neg.Nr.47/ 3+4.,",
+      "CER": 0.1,
+      "WER": 0.75
+    },
+    "color_psm11": {
+      "text": "Hilienfeld-Klosteralm\n\n1 Fichte,Naturdenkmal\n\nAufn.Meisinger,Mai 1957,\n\n1 Rollfilm 4x6,Neg.Nr.47/ 3+4.,",
+      "CER": 0.11,
+      "WER": 0.875
+    },
+    "otsu_psm3": {
+      "text": "HEilienfeld-Klosteralm\n1 Fichte,Naturdenkmal\n\nAufn.Meisinger,Wai 1957,\n1 Rollfilm 4x6,Neg.Nr.47/ 34.",
+      "CER": 0.09,
+      "WER": 0.625
+    },
+    "otsu_psm6": {
+      "text": "HEilienfeld-Klosteralm\n\n1 Fichte,Naturdenkmal\nAufn.Meisinger,Wai 1957,\n\n1 Rollfilm 4x6,Neg.Nr.47/ 34.",
+      "CER": 0.1,
+      "WER": 0.625
+    },
+    "otsu_psm11": {
+      "text": "Hilienfeid-Klosteralm\n\n1 Fichte,Naturdenkmal\n\nAufn.Meisinger,Wai 1957,\n\n1 Rollfilm 4x6,Neg.Nr.47/ 34.",
+      "CER": 0.11,
+      "WER": 0.75
+    },
+    "sauvola_psm3": {
+      "text": "Hilienfeld-Klosteralm\n1 Fichte,Naturdenkmal\n\nAufn.Meisinger,liai 1957,\n1 Rollfilm Ax6,Neg.Nr.47/ 34,",
+      "CER": 0.1,
+      "WER": 0.875
+    },
+    "sauvola_psm6": {
+      "text": "Hilienfeld-Klosteralm\n\n1 Fichte,Naturdenkmal\nAufn.Meisinger,liai 1957,\n\n1 Rollfilm Ax6,Neg.Nr.47/ 34,",
+      "CER": 0.11,
+      "WER": 0.875
+    },
+    "sauvola_psm11": {
+      "text": "Hilienfeld-Klosteralm\n\n1 Fichte,Naturdenkmal\n\nAufn.Meisinger,liai 1957,\n\n1 Rollfilm Ax6,Neg.Nr.47/ 34,",
+      "CER": 0.12,
+      "WER": 1.0
+    }
+  },
+  "0048_ImageFile_{C39E809A-F56C-4AFE-A643-7610FF61CB37}17_crop1.png": {
+    "color_psm3": {
+      "text": "Waldviertel |\nHolzschlägerung.\n\nFilm 6x6,Nr.7,Neg.8",
+      "CER": 0.0851063829787234,
+      "WER": 1.5
+    },
+    "color_psm6": {
+      "text": "Waldviertel |\nHolzschlägerung.\nFilm 6x6,Nr.7,Neg.8",
+      "CER": 0.06382978723404255,
+      "WER": 1.0
+    },
+    "color_psm11": {
+      "text": "Waldviertel\n\nHolzschlägerung.\n\nFilm 6x6,Nr.7,Neg.8",
+      "CER": 0.06382978723404255,
+      "WER": 1.5
+    },
+    "otsu_psm3": {
+      "text": "Waldviertel\nHolzschlägerung.\n\nFilm 6x6,Nr.7,Neg.8",
+      "CER": 0.0425531914893617,
+      "WER": 1.0
+    },
+    "otsu_psm6": {
+      "text": "Waldviertel\nHolzschlägerung.\nFilm 6x6,Nr.7,Neg.8",
+      "CER": 0.02127659574468085,
+      "WER": 0.5
+    },
+    "otsu_psm11": {
+      "text": "Waldviertel\n\nHolzschlägerung.\n\nFilm 6x6,Nr.7,Neg.8",
+      "CER": 0.06382978723404255,
+      "WER": 1.5
+    },
+    "sauvola_psm3": {
+      "text": "Waldviertel\nHolzschlägerung.\n\nFilm 6x6,Nr.7,Neg.8",
+      "CER": 0.0425531914893617,
+      "WER": 1.0
+    },
+    "sauvola_psm6": {
+      "text": "Waldviertel\nHolzschlägerung.\nFilm 6x6,Nr.7,Neg.8",
+      "CER": 0.02127659574468085,
+      "WER": 0.5
+    },
+    "sauvola_psm11": {
+      "text": "Waldviertel\n\nHolzschlägerung.\n\nFilm 6x6,Nr.7,Neg.8",
+      "CER": 0.06382978723404255,
+      "WER": 1.5
+    }
+  },
+  "0049_ImageFile_{D47E23CC-8306-4120-8B33-ED46EDF12AB4}7_crop2.png": {
+    "color_psm3": {
+      "text": "Türnitz,\n4 Linden, aturdenkmal\nAufn.leisinger 1954\n\nLeicafilm Nr.61,Neg.Ur.6,7.",
+      "CER": 0.10975609756097561,
+      "WER": 0.875
+    },
+    "color_psm6": {
+      "text": "Türnitz, MER a\n4 Linden, aturdenkmal\nAufn.leisinger 1954 |\nLeicafilm Nr.61,Nog.Ur.6,7.,",
+      "CER": 0.21951219512195122,
+      "WER": 1.0
+    },
+    "color_psm11": {
+      "text": "Türnitz,\n\n4 Linden, aturdenkmal\n\nAufn .WMeisinger 1954\n\nLeicafilm Nr.61,Nog.\\r.6,7\n\nER",
+      "CER": 0.1951219512195122,
+      "WER": 1.25
+    },
+    "otsu_psm3": {
+      "text": "Türnitz,\n4 Linden, Naturdenkmal\nAufa.Weisinger 1954\n\nLeicafilm Ür.61,leg. r.ö, 7.",
+      "CER": 0.15853658536585366,
+      "WER": 0.875
+    },
+    "otsu_psm6": {
+      "text": "Türnitz, ‘\n4 Linden, Naturdenkmal\nAufa.Weisinger 1954\nLeicafiln r.61,Neg.»r.6,7.",
+      "CER": 0.15853658536585366,
+      "WER": 1.0
+    },
+    "otsu_psm11": {
+      "text": "Türnitz,\n\n4 Linden, Naturdenkmal\n\nAufa.Weisinger 1954\n\nLeicafiln r.61,Neg. »r.6,7\n\n.",
+      "CER": 0.2073170731707317,
+      "WER": 1.25
+    },
+    "sauvola_psm3": {
+      "text": "",
+      "CER": 1.0,
+      "WER": 1.0
+    },
+    "sauvola_psm6": {
+      "text": "Türnitz,\n4 Lixden, !nturdenimal\nAufn.sleisinger 1954\nLeiesfiln Ür.61,'cg.r. ST. ,",
+      "CER": 0.24390243902439024,
+      "WER": 0.875
+    },
+    "sauvola_psm11": {
+      "text": "Türıitz,\n\n£\n\n\"ran\n\nL\n\nLixden, nturden\n\nAds\n\n-\n\nä\n\n22\n\nAuln.keisi:\n\noo\n\nIr\n\n154\n\nLoiesfiln\n\nv.61\n\n[921\n\n5\n\n. 7.347.",
+      "CER": 0.8536585365853658,
+      "WER": 2.5
+    }
+  },
+  "0050_ImageFile_{D8592643-1658-4215-A7AD-6E576EAF3749}6_crop1.png": {
+    "color_psm3": {
+      "text": "Rax\n—\n\nLatschenwald 1948\n\nAufn.Dr.Machura\nFilm Nr, 4 Neg.Nr.28",
+      "CER": 0.13333333333333333,
+      "WER": 1.1666666666666667
+    },
+    "color_psm6": {
+      "text": "Rax\n\nLatschenwald 1948\nAufn.Dr.Machura\n\nFilm Nr, 4 Neg.Nr.28",
+      "CER": 0.1,
+      "WER": 1.1666666666666667
+    },
+    "color_psm11": {
+      "text": "Ra x\n\nLatschenwald\n\n1948\n\nAufn,.Dr.Machura\n\nFilm Nr. 4\n\nNeg.Nr.28",
+      "CER": 0.16666666666666666,
+      "WER": 1.3333333333333333
+    },
+    "otsu_psm3": {
+      "text": "R ax\nLatschenwald 1948\n\nAufn,Dr.Machura\nFilm Nr. 4 Neg.Nr.28",
+      "CER": 0.1,
+      "WER": 1.0
+    },
+    "otsu_psm6": {
+      "text": "Rax\n\nLatschenwald 1948\nAufn,Dr.Machura\n\nFilm Nr. 4 Neg.Nr.28",
+      "CER": 0.1,
+      "WER": 1.0
+    },
+    "otsu_psm11": {
+      "text": "R ax\n\nLatschenwald\n\n1948\n\nAufn,Dr.Machura\n\nFilm Nr. 4\n\nNeg.Nr.28",
+      "CER": 0.16666666666666666,
+      "WER": 1.3333333333333333
+    },
+    "sauvola_psm3": {
+      "text": "R ax\nLatschenwal d 1948\n\nAufn,Dr.Machura\nFilm Nr. 4 Neg.Nr.28",
+      "CER": 0.11666666666666667,
+      "WER": 1.1666666666666667
+    },
+    "sauvola_psm6": {
+      "text": "R ax\n\nLatschenwald 1948\nAufn,Dr.Machura\n\nFilm Nr. 4 Neg.Nr.28",
+      "CER": 0.11666666666666667,
+      "WER": 1.1666666666666667
+    },
+    "sauvola_psm11": {
+      "text": "R ax\n\nlatschenwald\n\n1948\n\nAufn.Dr.Machura\n\nFilm Nr, 4\n\nNeg.Nr.28",
+      "CER": 0.18333333333333332,
+      "WER": 1.5
+    }
+  },
+  "0051_ImageFile_{D8592643-1658-4215-A7AD-6E576EAF3749}21_crop2.png": {
+    "color_psm3": {
+      "text": "RER EBEN :\nIrkddgfudrg u.Polleroswand\n\n'v.Semmering ‚aus .\n\nAufn.Dr.Machura 1949 |\nFilm Nr. XXVIII,Neg.25 u.26",
+      "CER": 0.31313131313131315,
+      "WER": 1.0
+    },
+    "color_psm6": {
+      "text": "Arhdrdvdrg u.Polleroswand\nv.Ssemmering ‚aus . E\nAufn.Dr.Machura 1949 |\nFilm Nr. XXVIII,Neg.25 u.26",
+      "CER": 0.24242424242424243,
+      "WER": 0.8333333333333334
+    },
+    "color_psm11": {
+      "text": "Fhhndeddrg u.Polleroswand\n\nv.Ssemmering ‚aus .\n\nAufn.Dr.Machura 1949\n\nFilm Nr. XXVIII,Neg.25 u.26",
+      "CER": 0.21212121212121213,
+      "WER": 0.8333333333333334
+    },
+    "otsu_psm3": {
+      "text": "_Rax\n\nIrkidsugr u.Polleroswand\n\nv.Semmering aus\n\nAufn.Dr.Machura 1949\nFilm Nr. XXVIII,Neg.25 u.26",
+      "CER": 0.18181818181818182,
+      "WER": 0.75
+    },
+    "otsu_psm6": {
+      "text": "._ RaxX...\n\nAkHddygyf u.Polleroswand\nv.Semmering aus\nAufn.Dr.Machura 1949\n\nFilm Nr. XXVIII,Neg.25 u.26",
+      "CER": 0.23232323232323232,
+      "WER": 0.8333333333333334
+    },
+    "otsu_psm11": {
+      "text": "_Rax\n\nIrkddeudrg u.Polleroswand\n\nv.Semmering aus\n\nAufn.Dr.Machura 1949\n\nFilm Nr. XXVIII,Neg.25 u.26",
+      "CER": 0.1717171717171717,
+      "WER": 0.8333333333333334
+    },
+    "sauvola_psm3": {
+      "text": "Rax\n\nIchuseyerE u.Polleroswand\n\nv.Semmering aus\n\nAufn.Dr.YMachura 1949\nFiln ir. XXVIII,Neg.25 u.26",
+      "CER": 0.15151515151515152,
+      "WER": 0.9166666666666666
+    },
+    "sauvola_psm6": {
+      "text": "Hrhnddverf u.Polleroswand\nv.Semmering aus\nAufn.Dr.lachura 1949\n\nFiln ir. XXVIII,Neg.25 u.26",
+      "CER": 0.1919191919191919,
+      "WER": 0.9166666666666666
+    },
+    "sauvola_psm11": {
+      "text": "an\n\nRax\n\nIriHegverg u.Polleroswand\n\nv.Semmering aus\n\nAufn.Dr.Yachura 1949\n\nFilm ür. XXVIII,Neg.25 u.26",
+      "CER": 0.21212121212121213,
+      "WER": 1.0
+    }
+  },
+  "0052_ImageFile_{D8592643-1658-4215-A7AD-6E576EAF3749}22_crop2.png": {
+    "color_psm3": {
+      "text": "Raxblick v.Grünsting aus\nAufn lWeisinger\nLeica Nr.55,Neg.Nr.13 u.14,",
+      "CER": 0.08695652173913043,
+      "WER": 0.7142857142857143
+    },
+    "color_psm6": {
+      "text": "Rexblick v.Grünsting aus\nAufn.Meisinger et\nLeica Nr.55,Neg.Nr.13 u.14,",
+      "CER": 0.10144927536231885,
+      "WER": 0.8571428571428571
+    },
+    "color_psm11": {
+      "text": "Raxblick v.Grünsting aus\n\nAufn lWeisinger\n\nLeica Nr.55,Neg.Nr.13 u.i4",
+      "CER": 0.13043478260869565,
+      "WER": 0.8571428571428571
+    },
+    "otsu_psm3": {
+      "text": "Raxblick v.Grünsting aus\nAufn. Weisingsr\nLeica Hr.55,ieg.Nr.13 u.i4.",
+      "CER": 0.11594202898550725,
+      "WER": 0.7142857142857143
+    },
+    "otsu_psm6": {
+      "text": "Raxblick v.Grünsting aus\nAufn.leisinger oo.\nLeica Hr.55,ieg.Nr.13 u.i4.",
+      "CER": 0.14492753623188406,
+      "WER": 0.7142857142857143
+    },
+    "otsu_psm11": {
+      "text": "Raxblick v.Grünsting aus\n\nAufn. Weisingsr\n\nLeica Nr.55,Weg.Nr.13 u.i4,",
+      "CER": 0.14492753623188406,
+      "WER": 0.8571428571428571
+    },
+    "sauvola_psm3": {
+      "text": "Raxblick v.Grünsting aus\n\nAufn.keisinger\n\nLeica Kr.sö,nag.ir.13 u.id,",
+      "CER": 0.2028985507246377,
+      "WER": 0.7142857142857143
+    },
+    "sauvola_psm6": {
+      "text": "Raxblick v.Grünsting aus\nAufn.keisinger oo.\nLeica Kr.sö,nag.ir.13 u.id,",
+      "CER": 0.2318840579710145,
+      "WER": 0.7142857142857143
+    },
+    "sauvola_psm11": {
+      "text": "Raxblick v.Grünsting aus\n\nAufn .lsisinger\n\nLeica Kr.sö,nag.ir.13 u.id,",
+      "CER": 0.2318840579710145,
+      "WER": 0.8571428571428571
+    }
+  },
+  "0053_ImageFile_{E9D72FC1-63FB-4EFC-97A9-C16D6BF04412}2_crop1.png": {
+    "color_psm3": {
+      "text": "Klein Engersdorf,1 Linde\nNaturdenkmal\n\nAufn.Meisinger 1954,\nLeicafilm Nr.67,Neg.Nr.39.",
+      "CER": 0.06741573033707865,
+      "WER": 0.7777777777777778
+    },
+    "color_psm6": {
+      "text": "Klein Engersdorf,1 Linde\nNaturdenkmal\nAufn.Meisinger 1954,\nLeicafilm Nr.67,Neg.Nr.39.",
+      "CER": 0.056179775280898875,
+      "WER": 0.7777777777777778
+    },
+    "color_psm11": {
+      "text": "Klein Engersdorf,1 Linde\n\nNaturdenkmal\n\nAufn.Meisinger 1954,\n\nLeicafilm Nr.67,Neg.Nr.39.",
+      "CER": 0.0898876404494382,
+      "WER": 0.7777777777777778
+    },
+    "otsu_psm3": {
+      "text": "Klein Engersdorf,1 Linde\nNaturdenkmal\n\nAufn.Meisinger 1954.\nLeicafilm Nr.67,Neg.Nr.39.",
+      "CER": 0.056179775280898875,
+      "WER": 0.6666666666666666
+    },
+    "otsu_psm6": {
+      "text": "Klein Engersdorf,1 Linde\nNaturdenkmal\nAufn.Meisinger 1954.\nLeicafilm Nr.67,Neg.Nr.39.",
+      "CER": 0.0449438202247191,
+      "WER": 0.6666666666666666
+    },
+    "otsu_psm11": {
+      "text": "Klein Engersdorf,1 Linde\n\nNaturdenkmal\n\nAufn.Meisinger 1954.\n\nLeicafilm Nr.67,Neg.Nr.39.",
+      "CER": 0.07865168539325842,
+      "WER": 0.7777777777777778
+    },
+    "sauvola_psm3": {
+      "text": "Klein Engersdorf,1 Linde\nNaturdenkmal\n\nAufn.Meisinger 1954,\nLeicafilm Nr.67,Neg.Nr.39.",
+      "CER": 0.06741573033707865,
+      "WER": 0.7777777777777778
+    },
+    "sauvola_psm6": {
+      "text": "Klein Engersdorf,1 Linde\nNaturdenkmal\nAufn.Meisinger 1954,\nLeicafilm Nr.67,Neg.Nr.39.",
+      "CER": 0.056179775280898875,
+      "WER": 0.7777777777777778
+    },
+    "sauvola_psm11": {
+      "text": "Klein Engersdorf,1 Linde\n\nNaturdenkmal\n\nAufn.Meisinger 1954,\n\nLeicafilm Nr.67,Neg.Nr.39.",
+      "CER": 0.0898876404494382,
+      "WER": 0.7777777777777778
+    }
+  },
+  "0054_ImageFile_{E27A003C-F540-4A67-8239-69B6D36D9C08}24_crop1.png": {
+    "color_psm3": {
+      "text": "Neusiedlersee\n\nIllmitz, Bild aus der Steppe\n\nAufn.Meisinger 1949 _\nFilm Nr. 6 Neg.Nr. 18",
+      "CER": 0.05952380952380952,
+      "WER": 0.6666666666666666
+    },
+    "color_psm6": {
+      "text": "Neusiedlersee\nIllmitz,Bild aus der Steppe\nAufn.Meisinger 1949 _\nFilm Nr. 6 Neg.Nr. 18",
+      "CER": 0.047619047619047616,
+      "WER": 0.5555555555555556
+    },
+    "color_psm11": {
+      "text": "Neusiedlersee\n\nBe\n\nIllmitz, Bild aus der Steppe\n\nAufn.Meisinger\n\n1949\n\nFilm Nr. 6 Neg.Nr. 18",
+      "CER": 0.09523809523809523,
+      "WER": 0.7777777777777778
+    },
+    "otsu_psm3": {
+      "text": "Neusiedlersee\nIllmitz, Bild aus der Ste:;ype\n\nAufn.Meisinger 1949\nFilm Nr. 6 Neg.Nr. 18",
+      "CER": 0.05952380952380952,
+      "WER": 0.3333333333333333
+    },
+    "otsu_psm6": {
+      "text": "Neusiedlersee\n\nIllmitz,Bild aus der Steppe\nAufn.Meisinger 1949\nFilm Nr. 6 Neg.Nr. 18",
+      "CER": 0.03571428571428571,
+      "WER": 0.4444444444444444
+    },
+    "otsu_psm11": {
+      "text": "Neusiedlersee\n\nIllmitz, Bild aus der Ste:;ype\n\nAufn.Meisinger\n\n1949\n\nFilm Nr. 6 Neg.Nr. 18",
+      "CER": 0.08333333333333333,
+      "WER": 0.6666666666666666
+    },
+    "sauvola_psm3": {
+      "text": "Neusiedlersee\nIllmitz,Bild aus der Steppe\n\nAufn.Meisinger 1949\nFilm Nr. 6 Neg.Nr. 18",
+      "CER": 0.03571428571428571,
+      "WER": 0.5555555555555556
+    },
+    "sauvola_psm6": {
+      "text": "Neusiedlersee\nIllmitz,Bild aus der Steppe\nAufn.Meisinger 1949\nFilm Nr. 6 Neg.Nr. 18",
+      "CER": 0.023809523809523808,
+      "WER": 0.4444444444444444
+    },
+    "sauvola_psm11": {
+      "text": "Neusiedlersee\n\nIllmitz,Bild aus der Steppe\n\nAufn.Meisinger\n\n1949\n\nFilm Nr. 6 Neg.Nr. 18",
+      "CER": 0.05952380952380952,
+      "WER": 0.6666666666666666
+    }
+  },
+  "0055_ImageFile_{E53D0567-0095-47C3-A99D-006DA4095AE5}11_crop2.png": {
+    "color_psm3": {
+      "text": "Traismauer\nTreisen nach NIOGAS-Rohrlegung\n\nAufn.Meisjuger,Sept .1958\nRollfilm 4x6,Nr.59/10,+ 11,",
+      "CER": 0.07446808510638298,
+      "WER": 0.7142857142857143
+    },
+    "color_psm6": {
+      "text": "Traismauer\nTreisen nach NIOGAS-Rohrlegung\nAufn.Meisjuger,Sept.1958\nRollfilm 4x6,Nr.59/10,+ 11,",
+      "CER": 0.05319148936170213,
+      "WER": 0.7142857142857143
+    },
+    "color_psm11": {
+      "text": "Traismauer\n\nTreisen nach NIOGAS-Rohrlegung\n\nAufn.Meisjuger,Sept .1958\n\nRollfilm 4x6,Nr.59/10,+ 11,",
+      "CER": 0.09574468085106383,
+      "WER": 1.1428571428571428
+    },
+    "otsu_psm3": {
+      "text": "Traismauer\nTreisen nach NIOGAS-Rohrlegung\n\nAufn.Meisigger,Sept .1958\nRollfilm Ax6,Nr.59/10,+ 11,",
+      "CER": 0.07446808510638298,
+      "WER": 0.7142857142857143
+    },
+    "otsu_psm6": {
+      "text": "Traismauer\nTreisen nach NIOGAS-Rohrlegung\nAufn.Meisigger,Sept .1958\nRollfilm 4x6,Nr.59/10, + 11,",
+      "CER": 0.05319148936170213,
+      "WER": 0.5714285714285714
+    },
+    "otsu_psm11": {
+      "text": "Traismauer\n\nTreisen nach NIOGAS-Rohrlegung\n\nAufn.Meisigger,Sept .1958\n\nRollfilm 4x6,Nr.59/10, + 11,",
+      "CER": 0.0851063829787234,
+      "WER": 1.1428571428571428
+    },
+    "sauvola_psm3": {
+      "text": "Traismauer\nTreisen nach NIOGAS-Rohrlegung\n\nAufn.Meisinger,Sept .1958\nRollfilm 4x6,Nr.59/10,+ 11,",
+      "CER": 0.05319148936170213,
+      "WER": 0.7142857142857143
+    },
+    "sauvola_psm6": {
+      "text": "Traismauer\nTreisen nach NIOGAS-Rohrlegung\nAufn.Meisinger,Sept .1958\nRollfilm 4x6,Nr.59/10,+ 11,",
+      "CER": 0.0425531914893617,
+      "WER": 0.7142857142857143
+    },
+    "sauvola_psm11": {
+      "text": "Traismauer\n\nTreisen nach NIOGAS-Rohrlegung\n\nAufn.Meisinger,Sept .1958\n\nRollfilm 4x6,Nr.59/10,+ 11,",
+      "CER": 0.07446808510638298,
+      "WER": 1.1428571428571428
+    }
+  },
+  "0056_ImageFile_{E83C86EF-A0B2-477A-98AA-43BF86ABFB64}11_crop0.png": {
+    "color_psm3": {
+      "text": "ER\n\n\"Aush, dr, wenn 29%\nFilm ‚6x6 Nr.29 8",
+      "CER": 0.7142857142857143,
+      "WER": 1.0
+    },
+    "color_psm6": {
+      "text": "u En RE ER N eye\nNeusiedlersee S- u\n‚Seeäustritt an der Seestrasse\n'Aufn,Dr.Machura 1952 ©......5%\nFilm 6x6 Br BE an",
+      "CER": 0.5357142857142857,
+      "WER": 1.5
+    },
+    "color_psm11": {
+      "text": "w *\n\nNeusiedlersee:\n\nSeeäustr\n\ntt an\n\n2%\n\nss\n\ne\n\ng\n\nFe.\n\nkufh, Dr. we u\n\nee)\n\nFilm 6x6 'Nr.29 8\n\nZER",
+      "CER": 0.6071428571428571,
+      "WER": 1.8
+    },
+    "otsu_psm3": {
+      "text": "Neusiedlersee\nSeeäustritt an der Seestrasse\n\nAufn.Dr.Machura 1952\nFilm 6x6 ur.29 /",
+      "CER": 0.09523809523809523,
+      "WER": 0.6
+    },
+    "otsu_psm6": {
+      "text": "Neusiedlersee _ E\nSeeäustritt an der Seestrasse\nAufn.Dr.Machura 1952 .\nFilm 6x6 ur.29 / \\",
+      "CER": 0.16666666666666666,
+      "WER": 1.0
+    },
+    "otsu_psm11": {
+      "text": "Neusiedlersee\n\nSeeäustritt an der Seestrasse\n\nAufn.Dr Machura 1952\n\nFilm 6x6 Nr.29 SS,",
+      "CER": 0.13095238095238096,
+      "WER": 0.8
+    },
+    "sauvola_psm3": {
+      "text": "Neusiedlersee\nSeeaustritt an der Seestrasse\n\nAufn,Dr,iiachura 1952\nFilm 8x6 ir.29 /7",
+      "CER": 0.13095238095238096,
+      "WER": 0.6
+    },
+    "sauvola_psm6": {
+      "text": "Neusiedlersee -\nSeeaustritt an der Seestrasse\nAufn,Dr,iiachura 1952\n\nFilm 8x6 ir.29 /7",
+      "CER": 0.15476190476190477,
+      "WER": 0.9
+    },
+    "sauvola_psm11": {
+      "text": "Neusiedlersee\n\nSeeaustritt an der Seestrasse\n\nAufn,Dr,iischura 1952\n\nFilm 6x6 ur.R9 IST,",
+      "CER": 0.19047619047619047,
+      "WER": 0.8
+    }
+  },
+  "0057_ImageFile_{E59523F9-19E5-42BC-9886-6CDD0AF4DA92}4_crop2.png": {
+    "color_psm3": {
+      "text": "Annaberg mit Ötscher\n—— I\nAufa.lieisimger 1954,\nbeicafilm Nr. 61,Neg,.Nr.9,10.",
+      "CER": 0.2,
+      "WER": 0.7
+    },
+    "color_psm6": {
+      "text": "Annaberg mit Ötscher\nAufa.lieisimger 1954, |\nbeicafilm Nr.61,Neg.Nr.9,10.",
+      "CER": 0.16,
+      "WER": 0.8
+    },
+    "color_psm11": {
+      "text": "Annaberg mit Ötscher\n\nAufa,lieisinger 1954,\n\nbeicafilm Nr. 61,Neg,.Nr.9,10.",
+      "CER": 0.16,
+      "WER": 0.7
+    },
+    "otsu_psm3": {
+      "text": "Annaberg mit Ötscher\n| .\nAufs,kieisinger 1954,\n\nbLeicafilm Nr.61,Neg.!r.9,10.",
+      "CER": 0.21333333333333335,
+      "WER": 0.8
+    },
+    "otsu_psm6": {
+      "text": "Annaberg mit Ötscher\n| .\nAufs,kieisinger 1954,\nbLeicafilm Nr.61,Neg.!r.9,10.",
+      "CER": 0.2,
+      "WER": 0.8
+    },
+    "otsu_psm11": {
+      "text": "Annaberg mit Ötscher\n\nAufa,lieisinger 1954,\n\nbLeicafilm Nr.61,Neg.!r.9,10.",
+      "CER": 0.17333333333333334,
+      "WER": 0.8
+    },
+    "sauvola_psm3": {
+      "text": "ts:her\n\nfa.ile\nboieufiln r.61,Neg.\\r.9,10.\n\nAu\n\nFi",
+      "CER": 0.68,
+      "WER": 1.0
+    },
+    "sauvola_psm6": {
+      "text": "Annaberg mit Öts:-her\n| .\nAufz,lleisinper 1954,\nboieufiln r.61,Neg.\\r.9,10.",
+      "CER": 0.30666666666666664,
+      "WER": 0.8
+    },
+    "sauvola_psm11": {
+      "text": "Sunaberg mit Öts:her\n\nAufn,leisinger 1954,\n\nLoieufiln 'r.61 ‚„Jeg.\\r. 9, 10.",
+      "CER": 0.29333333333333333,
+      "WER": 0.9
+    }
+  },
+  "0058_ImageFile_{F2C96627-5B6B-4241-9E28-F23B76C498B9}5_crop2.png": {
+    "color_psm3": {
+      "text": "Lackenhof\n\nLinde, Yaturdehkmalr\nAufn. Meisinger, Sept.1961\nRollfilm 4x6,Nr.98/1 + 2.",
+      "CER": 0.1125,
+      "WER": 1.4
+    },
+    "color_psm6": {
+      "text": "Lackenhof\nLinde,Naturdenkmal.\nAufn.Meisinger,Sept.1961\nRollfilm 4x6,Nr.98/1 + 2",
+      "CER": 0.0125,
+      "WER": 0.4
+    },
+    "color_psm11": {
+      "text": "Lackenhof\n\nLinde, Kaluzdenkmnll\n\nAufn. Meisinger, Sept.1961\n\nRollfilm 4x6,Nr.98/1 + 2",
+      "CER": 0.15,
+      "WER": 1.6
+    },
+    "otsu_psm3": {
+      "text": "Lackenhof\nLinde,Naturdenkmal.\nAufn.Meisinger,Sept.1961\nRollfilm 4x6,Nr.98/1 + 2",
+      "CER": 0.0125,
+      "WER": 0.4
+    },
+    "otsu_psm6": {
+      "text": "Lackenhof\nLinde,Naturdenkmal.\nAufn.Meisinger,Sept.1961\nRollfilm 4x6,Nr.98/1 + 2",
+      "CER": 0.0125,
+      "WER": 0.4
+    },
+    "otsu_psm11": {
+      "text": "Lackenhof\n\nLinde,Naturdenkmal.\n\nAufn.Meisinger,Sept.1961\n\nRollfilm 4x6,Nr.98/1 + 2",
+      "CER": 0.05,
+      "WER": 1.0
+    },
+    "sauvola_psm3": {
+      "text": "Lackenhof\nLinde,Naturdenkmal,\nAufn.Meisinger,Sept.1961\nRollfilm 4x6,Nr.98/1 + 2",
+      "CER": 0.025,
+      "WER": 0.6
+    },
+    "sauvola_psm6": {
+      "text": "Lackenhof\nLinde,Naturdenkmal,\nAufn.Meisinger,Sept.1961\nRollfilm 4x6,Nr.98/1 + 2",
+      "CER": 0.025,
+      "WER": 0.6
+    },
+    "sauvola_psm11": {
+      "text": "Lackenhof\n\nLinde,Naturdenkmal,\n\nAufn.Meisinger,Sept.1961\n\nRollfilm 4x6,Nr.98/1 + 2",
+      "CER": 0.0625,
+      "WER": 1.0
+    }
+  },
+  "0059_ImageFile_{FB32D013-CDEC-4530-97E8-AE8EED7EFE41}24_crop2.png": {
+    "color_psm3": {
+      "text": "suntersdorfzSchloßeinfahrt\n\nAufnsMeisinger,Feber 1959\n\nRollfilm 4x6, Nr. CHUR",
+      "CER": 0.24050632911392406,
+      "WER": 1.75
+    },
+    "color_psm6": {
+      "text": "suntors dorfzSchloße infahrt\nAufnsMeisinger,Feber 1959\nRollfilm 4x6, Nr. CHUR",
+      "CER": 0.27848101265822783,
+      "WER": 1.5
+    },
+    "color_psm11": {
+      "text": "suntersdorfzSchloßeinfahrt\n\nAufnsMeisinger,Feber 1959\n\nRollfilm Ax6, Nr. tr",
+      "CER": 0.22784810126582278,
+      "WER": 1.75
+    },
+    "otsu_psm3": {
+      "text": "suntersdorfzSchloßeinfahrt\n\nAufnsMeisinger,Feber 1959\n\nRöllfilm 4x6, 17.84 Ar",
+      "CER": 0.27848101265822783,
+      "WER": 1.75
+    },
+    "otsu_psm6": {
+      "text": "suntersdorfzSchloßeinfahrt\nAufnsMeisinger,Feber 1959\nRöllfilm 4x6, 17.84 Ar",
+      "CER": 0.27848101265822783,
+      "WER": 1.25
+    },
+    "otsu_psm11": {
+      "text": "yunt gE8 dorf „Schloße infahrt\n\nAufnsMeisinger,Feber 1959\n\nRöllfilm 4x6, Nr. Ar —-",
+      "CER": 0.35443037974683544,
+      "WER": 3.0
+    },
+    "sauvola_psm3": {
+      "text": "suntersdorf=Schloßeinfahrt\n\nAufnslleisinger,Feber 1959\n\nRöllfilm 4x6, Nr. HA",
+      "CER": 0.25316455696202533,
+      "WER": 1.75
+    },
+    "sauvola_psm6": {
+      "text": "sunters dorf=Schl oßBeinfahrt\nAufnslleisinger,Feber 1959\nRöllfilm 4x6, Nr. HA",
+      "CER": 0.2911392405063291,
+      "WER": 1.75
+    },
+    "sauvola_psm11": {
+      "text": "suntersdorf=Schloßeinfahrt\n\nAufnslleisinger,Feber 1959\n\nRöllfilm Ax6, Nr. UA",
+      "CER": 0.26582278481012656,
+      "WER": 1.75
+    }
+  },
+  "0060_ImageFile_{FC4AC497-EB48-4BAA-8C34-EE4173C1E790}3_crop1.png": {
+    "color_psm3": {
+      "text": "Tormäuer Anfang bei\nTrübenbach.\nAufn.Meisinger,Juli 1961\nRollfilm 4x6, Nr.96/11°",
+      "CER": 0.04878048780487805,
+      "WER": 0.5555555555555556
+    },
+    "color_psm6": {
+      "text": "Tormäuer Anfang bei\nTrübenbach.\n\nAufn.Meisinger,Juli 1961\nRollfilm 4x6, Nr.96/11°",
+      "CER": 0.06097560975609756,
+      "WER": 0.5555555555555556
+    },
+    "color_psm11": {
+      "text": "_ Tormäuer Anfang bei\n\nTrübenbach.\n\nAufn.Meisinger,Juli 1961\n\nRollfilm 4x6, Nr.96/11°",
+      "CER": 0.10975609756097561,
+      "WER": 0.8888888888888888
+    },
+    "otsu_psm3": {
+      "text": "Tormäuer Anfang bei\nTrübenbach.\nAufn.Meisinger,Juli 1961\n\nRollfilm 4x6, Nr.96/11",
+      "CER": 0.04878048780487805,
+      "WER": 0.6666666666666666
+    },
+    "otsu_psm6": {
+      "text": "Tormäuer Anfang bei\nTrübenbach.\nAufn.Meisinger,Juli 1961\n\nRollfilm 4x6, Nr.96/11",
+      "CER": 0.04878048780487805,
+      "WER": 0.6666666666666666
+    },
+    "otsu_psm11": {
+      "text": "_ Tormäuer Anfang bei\n\nTrübenbach.\n\nAufn.Meisinger,Juli 1961\n\nRollfilm 4x6, Nr.96/11",
+      "CER": 0.0975609756097561,
+      "WER": 0.8888888888888888
+    },
+    "sauvola_psm3": {
+      "text": "Tormäuer Anfang bei\nTrübenbach.\nAufn.leisinger,Juli 1961\n\nRollfilm 4x6, Nr.96/11",
+      "CER": 0.06097560975609756,
+      "WER": 0.6666666666666666
+    },
+    "sauvola_psm6": {
+      "text": "Tormäuer Anfang bei\nTrübenbach.\nAufn.leisinger,Juli 1961\n\nRollfilm 4x6, Nr.96/11",
+      "CER": 0.06097560975609756,
+      "WER": 0.6666666666666666
+    },
+    "sauvola_psm11": {
+      "text": "Tormäuer Anfang bei\n\nTrübenbach.\n\nAufn.leisinger,Juli 1961\n\nRollfilm 4x6, Nr.96/11",
+      "CER": 0.08536585365853659,
+      "WER": 0.7777777777777778
+    }
+  },
+  "0061_ImageFile_{0BCE22E5-A353-4208-AEC3-3C5295A55EA2}11_crop3.png": {
+    "color_psm3": {
+      "text": "‚Kl.Pertholz ‚Waldviertel\nLandschaftsmotive ;\n\nAufn, Dr .llachura 1952\nFilm 6x6,Nr.28/5,8, 8",
+      "CER": 0.33653846153846156,
+      "WER": 1.2857142857142858
+    },
+    "color_psm6": {
+      "text": "Kl.Pertholz ‚Waldvie rtel\nLandschaft Suotive ,....02\nAufn.Dr.Machura, 1952\nFilm 6x6,07.28/5,8,8,",
+      "CER": 0.40384615384615385,
+      "WER": 1.0
+    },
+    "color_psm11": {
+      "text": "Kl.Pertholz ‚Waldviertel\n\nLandschaftsmotive\n\nAufn, Dr.ilachura, an\n\nFilm 6x6,Nr.28/.\n\nIN",
+      "CER": 0.33653846153846156,
+      "WER": 1.2857142857142858
+    },
+    "otsu_psm3": {
+      "text": "X1.Pertholz ‚Waldviertel\nLanäschaftsmotive\n\nAufn, Dr.Machura, 1952\nFilm 6x6,N7.28/5,8,8,",
+      "CER": 0.3173076923076923,
+      "WER": 1.0
+    },
+    "otsu_psm6": {
+      "text": "Xl.Pertholz ‚Waldviertel\nLanäschaftsmotive\nAufn,Dr.Nachura, 1952\nFilm 6x6,N7.28/5,8,8,",
+      "CER": 0.3173076923076923,
+      "WER": 0.8571428571428571
+    },
+    "otsu_psm11": {
+      "text": "Xl.Pertholz ‚Waldviertel\n\nLanäschaftsmotive\n\nAufn.Dr.Nachura, 1952\n\nFilm 6x6,Nr.28/5,,8, N,",
+      "CER": 0.3173076923076923,
+      "WER": 1.1428571428571428
+    },
+    "sauvola_psm3": {
+      "text": "Aufn,dr.liachura, 1952\nFilm Cxö,ir.28\n\nSP»\n\\)\nS®\n_o\n<",
+      "CER": 0.7115384615384616,
+      "WER": 0.8571428571428571
+    },
+    "sauvola_psm6": {
+      "text": "X1.Pertholz ‚Talüviertel\nLandschaftsmotive\nAufn,dr.liachura, 1952\nFilm 6x0,1m.28/5,,8,°,",
+      "CER": 0.375,
+      "WER": 0.8571428571428571
+    },
+    "sauvola_psm11": {
+      "text": "XKl.Pertholz\n\nmr,\n\nläviertel\n\nyo\n\nLandschaf\n\n+\n\nU\n\nsmotive\n\nv\n\n\"ufn,.ör.liachura, 195\n\njP]\n\nFilm Cxö,ir.28\n\nS,g.\n\nrr\n\n8,",
+      "CER": 0.6057692307692307,
+      "WER": 2.4285714285714284
+    }
+  },
+  "0061_ImageFile_{0BCE22E5-A353-4208-AEC3-3C5295A55EA2}11_crop7.png": {
+    "color_psm3": {
+      "text": "Grehitblock u.Apfelbaum",
+      "CER": 0.8173076923076923,
+      "WER": 1.0
+    },
+    "color_psm6": {
+      "text": "Grehitblock u.Apfelbaum",
+      "CER": 0.8173076923076923,
+      "WER": 1.0
+    },
+    "color_psm11": {
+      "text": "Grahitblock u. Apfelbaum",
+      "CER": 0.8076923076923077,
+      "WER": 0.7142857142857143
+    },
+    "otsu_psm3": {
+      "text": "Grahitblock u.Arfelbaum",
+      "CER": 0.8269230769230769,
+      "WER": 1.0
+    },
+    "otsu_psm6": {
+      "text": "Grahitblock u.Arfelbaum",
+      "CER": 0.8269230769230769,
+      "WER": 1.0
+    },
+    "otsu_psm11": {
+      "text": "Grahitblock u,.Arfelbaum",
+      "CER": 0.8269230769230769,
+      "WER": 1.0
+    },
+    "sauvola_psm3": {
+      "text": "Grehitblock u.ArTelbıwa",
+      "CER": 0.8653846153846154,
+      "WER": 1.0
+    },
+    "sauvola_psm6": {
+      "text": "Grehitblock u.ArTelbıwa",
+      "CER": 0.8653846153846154,
+      "WER": 1.0
+    },
+    "sauvola_psm11": {
+      "text": "| Grehitblock u.ArTelbıwa",
+      "CER": 0.8653846153846154,
+      "WER": 1.0
+    }
+  },
+  "0062_ImageFile_{0C19E755-3B3B-4C8D-BC0E-02E03ADCBA1D}21_crop2.png": {
+    "color_psm3": {
+      "text": "KÜRFLACH-\n\n3 Schwärzföhren, Ndm,\nkufn „Meisinger 1952‘\nFilm &x6,Nr. 24,Nog. Nr. 1\n\n. a",
+      "CER": 0.2375,
+      "WER": 2.4
+    },
+    "color_psm6": {
+      "text": "WORLLACH.: .®\n3 Schwarzföhren, Nm.\nAufn.Meisinger 1952\n-Film 6x6,Nr.24,Neg,.Nr.1",
+      "CER": 0.2125,
+      "WER": 1.0
+    },
+    "color_psm11": {
+      "text": "RKÜRFLACH\n\n3, ‚Schwärzföhren, Ndm.\n\nAufn .Meisinger 1952‘\n\nFilm &x6,Nr. 24,Nog. Nr. 1\n\n„a7\n\na",
+      "CER": 0.275,
+      "WER": 2.8
+    },
+    "otsu_psm3": {
+      "text": "WÜRFLACH\n\n3 Schwarzföhren, Nim,\nAkufn.Meisinger 1952\n-Film 6x6,Nr.24,Neg.Nr.i\n\n. ff",
+      "CER": 0.15,
+      "WER": 1.4
+    },
+    "otsu_psm6": {
+      "text": "WÜRFLACH |\n3 Schwarzföhren, Nim,\nAkufn.Meisinger 1952\n-Film 6x6,Nr.24,Neg.Nr.i",
+      "CER": 0.175,
+      "WER": 1.0
+    },
+    "otsu_psm11": {
+      "text": "WÜRFLACH\n\n3 Schwarzföhren, Nüm.\n\nAkufn.Meisinger 1952\n\n„Film Ax6,lr.24,Neg.Nr.i\n\n..\n\n.\n\nff",
+      "CER": 0.225,
+      "WER": 2.0
+    },
+    "sauvola_psm3": {
+      "text": "TÜRFLACH\n5 Scawarzföhren, Tüm.\nAufn.l’eisinger 1252\n\n-Film 6x6,1r.24,Neg.ür.1\n\n.. - pi",
+      "CER": 0.2625,
+      "WER": 1.8
+    },
+    "sauvola_psm6": {
+      "text": "TÜRFLACH\n\n5 Scawarzföhren, Tüm.\n\nAufn.l’eisinger 1352\n\n-Filn 6x6,lr.24,leg.ir.1\ney",
+      "CER": 0.2625,
+      "WER": 1.6
+    },
+    "sauvola_psm11": {
+      "text": "TÜRFLACH\n\n7\n\n09]\n\nSchwarzföhren,Täm.\n\nAufn.leisinger 1252\n\n-Film E&x6,ur.24,Neg.ir.i\n\n..\n\nm\n\nL",
+      "CER": 0.4,
+      "WER": 2.2
+    }
+  },
+  "0063_ImageFile_{1CA6F88E-71EA-439A-8197-B1C9AE9458B2}3_crop1.png": {
+    "color_psm3": {
+      "text": "Theresienhitt tes\n\nAufn. Leisinger\n\nNE £ är 4",
+      "CER": 0.5942028985507246,
+      "WER": 1.6
+    },
+    "color_psm6": {
+      "text": "RE EEE et.\nMooxeszenhktter 7,0 u\nAufn. leisinger April 1540",
+      "CER": 0.6376811594202898,
+      "WER": 1.6
+    },
+    "color_psm11": {
+      "text": "I sl\n\nE25 veadhen\n\n5:\n\nBE\n\nwo SU,\n\n=\n\nu\n\nBE\n\nn er\n\nPer\"\n\nTheresienhütte.\n\nSäpril 4\n\n@\n\nN ‚dei snsnR\n\nNe; E\n\nAr.M",
+      "CER": 1.3043478260869565,
+      "WER": 4.8
+    },
+    "otsu_psm3": {
+      "text": "Jan 3 ha nz:\nTheresisenhütte.\n\nauln. \\eisinger april 1.\nsög. „IT FR? |\n\nkea-Fili. & 7",
+      "CER": 0.5652173913043478,
+      "WER": 2.8
+    },
+    "otsu_psm6": {
+      "text": "Theresisnhütte.",
+      "CER": 0.7971014492753623,
+      "WER": 1.0
+    },
+    "otsu_psm11": {
+      "text": "JAa-U G\n\nes\n\nnd\n\n1\n\nPa\n\nje\n\nREEL]\n\n-\n\n®\n\nTheresisnhütte.\n\naur il I.\n\nAauln. \\eisinger\n\nze\n\nauU.M\n\nCa- Fili . 2 7",
+      "CER": 1.1304347826086956,
+      "WER": 4.6
+    },
+    "sauvola_psm3": {
+      "text": "ı\\ UCICGSIGHLUTTE.\nfl, at einen Baar m, \\\naulle „OLSIDSGI stil Iu4%\n\non u \\ BR Eu",
+      "CER": 1.0289855072463767,
+      "WER": 3.0
+    },
+    "sauvola_psm6": {
+      "text": "ı UÜEICGSLGEKATLLE.\n\nvun, ER ER BEN Boat TI\nauld. „OLSIN,UX anlil iugn\nen er) \\ nn Pr\n\nAUZe ale. caill.. X 24",
+      "CER": 1.318840579710145,
+      "WER": 4.0
+    },
+    "sauvola_psm11": {
+      "text": ">\n\nJanı 5\n\nL\n\ne\n\nes\n\nri\n\n%\n\nEN [4\n\niheresiouältte.\n\n-\n\n„ul. „eisingor\n\nasril ig:\n\nBw\n\nRe? |",
+      "CER": 0.9855072463768116,
+      "WER": 3.8
+    }
+  }
+}
