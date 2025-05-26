@@ -3,3 +3,8 @@ dataset/
 predictions/
 binarized_otsu/
 binarized_sauvola/
+
+!dataset/.gitkeep
+!predictions/.gitkeep
+!binarized_otsu/.gitkeep
+!binarized_sauvola/.gitkeep
