@@ -9,3 +9,5 @@ scikit-image
 opencv-python-headless
 
 uuid
+
+re
