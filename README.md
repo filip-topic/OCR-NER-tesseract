@@ -1,6 +1,6 @@
 The experiment is ran using the ./main.py script.
 
-./dataset/ folder should contain the original images and the txt folder with .txt files with ground truth text
+./dataset/ folder should contain the original images (https://cloud.cvl.tuwien.ac.at/s/BmetMYW8i6qSJ29) and the txt folder with .txt files with ground truth text
 
 Tasks A, B, and C are implemented in the ./scr folder in corresponding python script
 
